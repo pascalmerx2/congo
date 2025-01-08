@@ -1,7 +1,7 @@
-languageCode = "en-au"
-languageName = "English (Australia)"
-displayName = ":flag-au:"
-isoCode = "en-AU"
+languageCode = "fr-fr"
+languageName = "Français"
+displayName = ":flag-fr:"
+isoCode = "fr-FR"
 weight = 1
 rtl = false
 
