@@ -5,7 +5,7 @@ isoCode = "en-AU"
 weight = 1
 rtl = false
 
-title = "Congo"
+title = "ARM"
 # logo = "img/logo.jpg"
 description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 copyright = "&copy; 2022 Congo contributors"
