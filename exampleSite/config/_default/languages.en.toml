@@ -5,7 +5,7 @@ isoCode = "fr-FR"
 weight = 1
 rtl = false
 
-title = "ARM"
+title = "PME"
 # logo = "img/logo.jpg"
 description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 copyright = "&copy; 2022 Congo contributors"
