@@ -9,11 +9,10 @@ cascade:
 ---
 
 {{< lead >}}
-Simple, yet powerful. Learn how to use Congo and its features.
+Simple, yet powerful. Learn how to use it.
 {{< /lead >}}
 
-![Screenshots of Congo on an iPhone, iPad and MacBook](screenshot.png)
 
-This section contains everything you need to know about Congo. If you're new, check out the [Installation]({{< ref "docs/installation" >}}) guide to begin or visit the [Samples]({{< ref "samples" >}}) section to see what Congo can do.
+This section contains everything you need to know about our tools and to see what you can do.
 
 ---
