@@ -1,13 +1,13 @@
 ---
-title: "Welcome to ARM:"
-description: "This is a demo xxxxxx."
+title: "Bonne Année 2025:"
+description: "Une année belle,bonne,juste et généreuse."
 ---
 
 {{< lead >}}
-A powerful, lightweight .....
+Audace, fantaisie, créativité .....
 {{< /lead >}}
 
-This is a demo site built entirely using Congo.
+This is a demo site ...
 
 
 
