@@ -1,6 +1,6 @@
 ---
 title: "Upgrading from Congo 1.x"
-date: 2022-01-20
+date: 2018-01-20
 draft: false
 description: "Discover what's new in Congo version 2.0."
 tags: ["new", "docs"]
