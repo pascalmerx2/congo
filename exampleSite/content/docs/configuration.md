@@ -1,6 +1,6 @@
 ---
 title: "Configuration"
-date: 2020-08-14
+date: 2014-08-14
 draft: false
 description: "All the configuration variables available in Congo."
 slug: "configuration"
