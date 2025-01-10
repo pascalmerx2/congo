@@ -1,6 +1,6 @@
 ---
 title: "Partials"
-date: 2020-08-10
+date: 2014-08-10
 draft: false
 description: "All the partials available in Congo."
 slug: "partials"
