@@ -2,7 +2,7 @@
 title: "structurer ses mesures de sécurité"
 date: 2019-03-06
 description: "Guide ANSSI"
-summary: ""Gouvernance, protection, défense, résilience"
+summary: "Gouvernance, protection, défense, résilience"
 
 ---
 
