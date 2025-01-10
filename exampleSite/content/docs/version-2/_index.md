@@ -1,96 +1,34 @@
 ---
-title: "What's New in 2.0 ✨"
-date: 2022-01-19
-draft: false
-description: "Discover what's new in Congo version 2.0."
+title: "etat des lieux SI"
+date: 2024-01-10
+draft: true
+description: "principe ."
 tags: ["new", "docs"]
 ---
 
-{{< lead >}}
-Congo 2.0 is packed with tons of new features and optimisations.
-{{< /lead >}}
+Les systèmes d’information de nos organisations deviennent de plus en plus complexes. Pour assurer l’efficience et la sécurité du système, il est important de disposer d’une vue d’ensemble de tous les éléments sous forme de diagrammes ou de plans. Face à ce défi, Mercator est l’outil idéal.
+Pour faciliter la mise en place et le partage des informations collectées dans le cadre d’une cartographie, il est nécessaire de disposer d’un outil dédié à la cartographie permettant de représenter ces informations, de les mettre en forme, de les partager et de les analyser. Certes, on peut réaliser ce travail à l’aide d’outils bureautiques, mais pour une réelle efficacité, il est préférable d’utiliser un outil dédié à la cartographie tel que Mercator basé sur une méthodologie claire définie par l’ANSSI 
 
-The original aim of Congo was to develop a theme that was simple and lightweight. Version 2 takes this one step further and makes the theme even more powerful while still maintaining its lightweight footprint.
+## Step 1: La méthodologie ANSSI
 
-Continue reading below to discover what's new. When you're ready to upgrade, check out the [guide to upgrading]({{< ref "upgrade" >}}).
+{{< alert >}}
+Visit the [ANSSI DOC]([https://gohugo.io/getting-started/installing/](https://cyber.gouv.fr/publications/cartographie-du-systeme-dinformation))  
+{{< /alert >}}
 
-## Tailwind CSS 3.0
+L’ANSSI diffuse sur son site un document décrivant la démarche de réalisation d’une cartographie de système d’information. Elle se veut simple, pratique, progressive et adaptée à toute organisation. Elle décrit les cinq étapes de la construction d’une cartographie qui sont l’initiation de la démarche de cartographie, le choix du modèle, la sélection de l’outillage qui doit être utilisé, la construction de la cartographie et enfin la pérennisation de la cartographie. Cette approche est basée sur deux notions essentielles qui sont l’usage de plusieurs dimensions désignées sous le terme de « vue » ainsi que sur la définition de trois niveaux de granularité.
+L’objectif est de présenter le système d’information sous la forme de vues qui sont des représentations partielles du système d’information et de son fonctionnement. Il s’agit ici de faciliter la lisibilité et la compréhension des différents aspects du système d’information. Les vues décrites dans le document concernent l’écosystème, les aspects métiers, les applications, l’administration, les infrastructures logiques et physiques. Certaines données, jouant le rôle de pivot, assurent la jointure entre les vues. Les vues sont regroupées dans trois visions qui sont le métier, les applications et l’infrastructure. Leur organisation est pensée afin d’aller progressivement du domaine métier vers les aspects purement techniques.
+Pour l’ANSSI, il faut accepter le fait qu’une cartographie soit temporairement incomplète, ce qui sera généralement le cas. Pour cette raison, il faut adopter une démarche incrémentale et itérative, mais également instaurer des campagnes de mises à jour régulières. Cartographier doit avoir un caractère participatif et être envisagé dans une démarche projet concernant différents métiers au sein de l’organisation. La notion de complétude est ici envisagée au travers de la définition de trois niveaux de granularité qui précisent la nature des informations considérées comme devant être nécessairement collectées. Le premier niveau correspond aux informations indispensables, le second définit les informations importantes et enfin, le troisième niveau regroupe uniquement les informations utiles. Cette approche est destinée à éviter le découragement face à la multitude de données qu’il est nécessaire de collecter pour qu’une cartographie soit considérée comme complète. La démarche de l’ANSSI définit des paliers qu’il est possible d’atteindre par étapes.
+En ce qui concerne l'outillage, l’ANSSI préconise que le logiciel adopté satisfasse aux besoins de la constitution d’un inventaire, de la réalisation des vues et de la représentation des liens entre elles, et enfin, du suivi de la mise à jour de la cartographie. Elle conseille également la possibilité de générer des vues graphiques facilitant l’analyse du système d’information ainsi qu’une approche collaborative pour que les différents acteurs puissent contribuer à la constitution et à la maintenance de la cartographie. La démarche de l’ANSSI met par ailleurs l’accent sur des possibilités d’interopérabilité avec des outils de collecte informatique ainsi que sur des fonctionnalités d’exportation des données dans des formats de fichiers compatibles avec les principaux logiciels bureautiques. Il faut également pouvoir limiter l’accès aux différentes vues aux seules personnes concernées afin de garantir la confidentialité, mais aussi la qualité des données collectées.Plusieurs outils de cartographie d’un système d’information répondent à ces critères, mais ceux-ci sont généralement des logiciels propriétaires onéreux dont les données sont hébergées dans un nuage. Heureusement, il existe un logiciel libre et gratuit cochant toutes les cases, c’est Mercator.
 
-Tailwind CSS is at the heart of Congo and this new release contains the very latest [Tailwind CSS version 3](https://tailwindcss.com/blog/tailwindcss-v3). It brings with it performance optimisations and support for some great new CSS features.
+## Step 2: Présentation de Mercator
 
-{{< youtube "TmWIrBPE6Bc" >}}
+Le projet a été développé durant la période Covid, principalement pour pallier l’absence d’un outil open source mettant en œuvre les recommandations de l’ANSSI. Initialement adopté par plusieurs établissements hospitaliers en France pour satisfaire à l’exigence de disposer d’une cartographie de leur système d’information, nécessaire à la certification HDS (Hébergeur de Données de Santé), Mercator est désormais de plus en plus utilisé par des collectivités et des entreprises de taille moyenne. En juin 2024, le projet a reçu d’OW2 le prix du meilleur projet open source dans la catégorie « Communauté ». Mercator répond au besoin de disposer d’une vue d’ensemble du système d’information. 
 
-Implementing this new version has also removed some Tailwind plugin dependencies from the theme, allowing the overall footprint to remain lightweight.
+### installation 
 
-## Multilingual support
+[GIT](https://github.com/pascalmerx2))
+PS !Si vous ne voulez pas installer manuellement Mercator sur votre serveur, une solution alternative vous est proposée sous la forme d’une image Docker. La commande suivante télécharge l’image et démarre une instance de Mercator :
+docker run -it --rm -e USE_DEMO_DATA=1 -p 8000:80 ghcr.io/dbarzin/mercator:latest
+Si vous avez une petite expérience de Docker, c’est la solution la plus rapide pour tester ou déployer Mercator.
 
-A highly requested feature, Congo is now multilingual! If you publish your content in multiple languages, the site will be built with all the translations available.
-
-<div class="text-2xl text-center" style="font-size: 2.8rem">:gb: :de: :fr: :es: :cn: :brazil: :tr: :bangladesh:</div>
-
-Thanks to submissions from the community, Congo has already been translated into [eight languages](https://github.com/jpanther/congo/tree/dev/i18n) with more to be added over time. By the way, [pull requests](https://github.com/jpanther/congo/pulls) for new languages are always welcome!
-
-## RTL language support
-
-One of the benefits of the new Tailwind and Multilingual features is the ability to add RTL language support. When enabled, the entire site will reflow content from right-to-left. Every element in the theme has been restyled to ensure it looks great in this mode which aids authors who wish to generate content in RTL languages.
-
-RTL is controlled on a per-language basis so you can mix and match both RTL and LTR content in your projects and the theme will respond accordingly.
-
-## Automatic image resizing
-
-A big change in Congo 2.0 is the addition of automatic image resizing. Using the power of Hugo Pipes, images in Markdown content are now automatically scaled to different output sizes. These are then presented using HTML `srcset` attributes enabling optimised file sizes to be served to your site visitors.
-
-![](image-resizing.png)
-
-```html
-<!-- Markdown: ![My image](image.jpg) -->
-<img
-  srcset="
-    /image_320x0_resize_q75_box.jpg 320w,
-    /image_635x0_resize_q75_box.jpg 635w,
-    /image_1024x0_resize_q75_box.jpg 1024w,
-    /image_1270x0_resize_q75_box.jpg 2x"
-  src="/image_635x0_resize_q75_box.jpg"
-  alt="My image"
-/>
 ```
-
-Best of all there's nothing you need to change! Simply insert standard Markdown image syntax and let the theme do the rest. If you want a little more control, the `figure` shortcode has been completely rewritten to provide the same resizing benefits.
-
-## Performance improvements
-
-This update packs performance improvements throughout. A key objective for this release was to improve Lighthouse scores and Congo now scores a perfect 100 on all four metrics.
-
-{{< screenshot src="lighthouse.jpg" >}}
-
-There's too many individual changes to highlight them here but the results speak for themselves. If you want to dig deeper, you can [view the Lighthouse report](lighthouse.html). Real world performance will vary based upon server configuration.
-
-## Site search
-
-Powered by [Fuse.js](https://fusejs.io), site search allows visitors to quickly and easily find your content. All searches are performed client-side meaning there's nothing to configure on the server and queries are performed super fast. Simply enable the feature in your site configuration and you're all set. Oh, and it also supports full keyboard navigation!
-
-## Tables of contents
-
-A highly requested feature, Congo now supports tables of contents on article pages. You can see it in action on this page. The contents are fully responsive and will adjust to take advantage of the space available at different screen resolutions.
-
-Available on a global or per article basis, the table of contents can be fully customised using standard Hugo configuration values, allowing you to adjust the behaviour to suit your project.
-
-## Accessibility improvements
-
-From adding ARIA descriptions to more items or simply adjusting the contrast of certain text elements, this release is the most accessible yet.
-
-Version 2 also introduces "skip to content" and "scroll to top" links that enable quick navigation. There's also keyboard shortcuts for enabling items like search without reaching for the mouse.
-
-The new image resizing features also provide full control over `alt` and `title` elements enabling an accessible experience for all visitors.
-
-## A whole lot more
-
-There's countless other minor changes to explore. From being able to display taxonomies on articles and list pages, to using the new `headline` author parameter to customise your homepage. There's also improved JSON-LD strucured data which further optimises SEO performance. Plus the entire theme has had extra polish to ensure a consistent design language.
-
-:rocket: Check out the [full changelog](https://github.com/jpanther/congo/blob/dev/CHANGELOG.md) to learn more.
-
-## Next steps
-
-If you're ready to upgrade, read the [upgrading from version 1 guide]({{< ref "upgrade" >}}) to get started. If you're new to Congo, check out the [Installation guide]({{< ref "docs/installation" >}}) to begin a new project.
-
----
