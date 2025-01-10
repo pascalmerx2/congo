@@ -27,14 +27,6 @@ Protection
     Evaluation et suivi du niveau de sécurité (audits et contrôles internes, indicateurs de pilotage de la performance numérique)
     Gestion du facteur humain (sensibilisations, entraînements)
 
-Protection
-
-   Sécurité de l'architecture du SI (Configuration des systèmes, Cloisonnement, Accès distant, Filtrage, Gestion des entrées/sorties de données et des supports amovibles, Sécurité des passerelles d’interconnexion) 
-   Protection  des  données  (intégrité,  confidentialité,  gestion  des  clés  cryptographiques)
-   Sécurité de l'administration des SI (administration, supervision) 
-   Gestion des identités et des accès (Identification, Authentification, contrôle d’accès) 
-   Maintien en conditions de sécurité et gestion d’obsolescence 
-   Sécurité physique et environnementale (Sécurité vis-à-vis des signaux parasites compromettants
 
 Défense
 
