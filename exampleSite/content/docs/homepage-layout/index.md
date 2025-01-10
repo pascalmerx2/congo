@@ -57,3 +57,22 @@ Rappels :
 
 Question à se poser : quelles sont les parties prenantes (fournisseurs, clients, partenaires) dans notre écosystème et sont-elles menaçantes pour l’organisation ?
 Question à se poser : quels sont les scénarios d'attaque envisageables ? Quels chemins peuvent être empruntés par les sources de risque ?
+    Le cybercriminel attaque l'hébergeur pour obtenir les données personnelles et les dossiers de performance et de rémunération.
+    Le cybercriminel qui attaque en direct les systèmes pour obtenir les données personnelles et les dossiers de performances et rémunération.
+    Employé mal intentionné qui est déjà à l’intérieur de l’entreprise et qui attaque les données personnelles et les dossiers de performance et de rémunération.
+    Employé mal intentionné qui passe par les postes des développeurs freelances et qui attaque les données personnelles et les dossiers de performance et rémunération.
+
+Atelier 4 : Scénarios opérationnels
+
+Rappels :
+    Scénario opérationnel : enchaînement d’actions malveillantes portées sur les biens supports de l’objet étudié ou de son écosystème.
+
+Question à se poser : quels sont les scénarios techniques (modes opératoires) possibles sur les chemins d’attaque (atelier 3) ?
+
+Atelier 5 : traitement du risque
+
+Rappels :
+    Risque initial : scénario de risque évalué avant application de la stratégie de traitement du risque. Cette évaluation repose sur la gravité et la vraisemblance du risque ;
+    Risque résiduel : scénario de risque subsistant après application de la stratégie de traitement du risque. Cette évaluation repose sur la gravité et la vraisemblance du risque.
+
+Question à se poser : quels sont les scénarios de risque (récapitulatif) ?
