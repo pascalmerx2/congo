@@ -1,5 +1,5 @@
 ---
-title: "An External Article"
+title: "Documentation PIA source RGPD"
 date: 2019-01-24
 externalUrl: "https://cnil.fr/fr/gerer-les-risques"
 summary: "The `externalUrl` front matter parameter can link to any URL."
