@@ -1,92 +1,39 @@
 ---
-title: "Diagrams and Flowcharts"
+title: "structurer ses mesures de sécurité"
 date: 2019-03-06
-description: "Guide to Mermaid usage in Congo"
-summary: "It's easy to add diagrams and flowcharts to articles using Mermaid."
-tags: ["mermaid", "sample", "diagram", "shortcodes"]
+description: "Guide ANSSI"
+summary: ""Gouvernance, protection, défense, résilience"
+
 ---
 
-Mermaid diagrams are supported in Congo using the `mermaid` shortcode. Simply wrap the diagram markup within the shortcode. Congo automatically themes Mermaid diagrams to match the configured `colorScheme` parameter.
+Gouvernance
 
-Refer to the [mermaid shortcode]({{< ref "docs/shortcodes#mermaid" >}}) docs for more details.
+    Cadre de maîtrise du risque (stratégie de sécurité, organisation de management du risque et d’amélioration continue, cartographie des systèmes et services, processus d’intégration de la sécurité dans les projets)
+    Maîtrise de l’écosystème (clauses de sécurité dans les contrats de sous-traitances, sécurité des processus de développement et d’acquisition)
+    Veille sur les vulnérabilités et les menaces
+    Evaluation et suivi du niveau de sécurité (audits et contrôles internes, indicateurs de pilotage de la performance numérique)
+    Gestion du facteur humain (sensibilisations, entraînements)
 
-The examples below are a small selection taken from the [official Mermaid docs](https://mermaid-js.github.io/mermaid/). You can also [view the page source](https://raw.githubusercontent.com/jpanther/congo/dev/exampleSite/content/samples/diagrams-flowcharts.md) on GitHub to see the markup.
 
-## Flowchart
+Protection
 
-{{< mermaid >}}
-graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-B --> C{Let me think}
-B --> G[/Another/]
-C ==>|One| D[Laptop]
-C -->|Two| E[iPhone]
-C -->|Three| F[Car]
-subgraph Section
-C
-D
-E
-F
-G
-end
-{{< /mermaid >}}
+   Sécurité de l'architecture du SI (Configuration des systèmes, Cloisonnement, Accès distant, Filtrage, Gestion des entrées/sorties de données et des supports amovibles, Sécurité des passerelles d’interconnexion) 
+   Protection  des  données  (intégrité,  confidentialité,  gestion  des  clés  cryptographiques)
+   Sécurité de l'administration des SI (administration, supervision) 
+   Gestion des identités et des accès (Identification, Authentification, contrôle d’accès) 
+   Maintien en conditions de sécurité et gestion d’obsolescence 
+   Sécurité physique et environnementale (Sécurité vis-à-vis des signaux parasites compromettants
 
-## Sequence diagram
+Défense
 
-{{< mermaid >}}
-sequenceDiagram
-autonumber
-par Action 1
-Alice->>John: Hello John, how are you?
-and Action 2
-Alice->>Bob: Hello Bob, how are you?
-end
-Alice->>+John: Hello John, how are you?
-Alice->>+John: John, can you hear me?
-John-->>-Alice: Hi Alice, I can hear you!
-Note right of John: John is perceptive
-John-->>-Alice: I feel great!
-loop Every minute
-John-->Alice: Great!
-end
-{{< /mermaid >}}
+    Capteurs (sondes, journalisation)
+    Détection (classification, corrélation et analyse des journaux, stratégie de supervision) 
+    Gestion des incidents (traitement des alertes, qualification, réponse aux incidents)
 
-## Class diagram
+Résilience
 
-{{< mermaid >}}
-classDiagram
-Animal "1" <|-- Duck
-Animal <|-- Fish
-Animal <--o Zebra
-Animal : +int age
-Animal : +String gender
-Animal: +isMammal()
-Animal: +mate()
-class Duck{
-+String beakColor
-+swim()
-+quack()
-}
-class Fish{
--int sizeInFeet
--canEat()
-}
-class Zebra{
-+bool is_wild
-+run()
-}
-{{< /mermaid >}}
+    Continuité  d’activité  (sauvegarde  et  restauration,  gestion  des  modes  dégradés) ;
+    Gestion de crise cyber (préparation, entrainement, dispositif de crise, plans, RETEX) ;
+    Reprise  d’activité.
 
-## Entity relationship diagram
 
-{{< mermaid >}}
-erDiagram
-CUSTOMER }|..|{ DELIVERY-ADDRESS : has
-CUSTOMER ||--o{ ORDER : places
-CUSTOMER ||--o{ INVOICE : "liable for"
-DELIVERY-ADDRESS ||--o{ ORDER : receives
-INVOICE ||--|{ ORDER : covers
-ORDER ||--|{ ORDER-ITEM : includes
-PRODUCT-CATEGORY ||--|{ PRODUCT : contains
-PRODUCT ||--o{ ORDER-ITEM : "ordered in"
-{{< /mermaid >}}
