@@ -1,10 +1,9 @@
 ---
 title: "RGPD-lexique"
 date: 2025-01-10
-lastmod: 2022-03-09
+lastmod: 2025-01-10
 draft: true
 description: "ggggg."
-slug: "icons"
 tags: ["rgpd", "sample"]
 showDateUpdated: true
 ---
