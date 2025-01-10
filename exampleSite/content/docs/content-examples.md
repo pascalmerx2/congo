@@ -1,6 +1,6 @@
 ---
 title: "Content Examples"
-date: 2020-08-09
+date: 2014-08-09
 draft: false
 description: "All the partials available in Congo."
 slug: "content-examples"
