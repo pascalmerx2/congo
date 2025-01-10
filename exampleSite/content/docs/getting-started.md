@@ -1,6 +1,6 @@
 ---
 title: "Getting Started"
-date: 2020-08-15
+date: 2014-08-15
 draft: false
 description: "All the front matter variables available in Congo."
 slug: "getting-started"
