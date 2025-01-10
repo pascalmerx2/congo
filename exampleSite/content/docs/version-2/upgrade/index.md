@@ -1,6 +1,6 @@
 ---
-title: "etat des lieux SI"
-date: 2024-01-10
+title: "etat des lieux SI-save"
+date: 2014-01-10
 draft: true
 description: "principe ."
 tags: ["new", "docs"]
