@@ -1,6 +1,6 @@
 ---
 title: "Installation"
-date: 2020-08-16
+date: 2014-08-16
 draft: false
 description: "How to install the Congo theme."
 slug: "installation"
