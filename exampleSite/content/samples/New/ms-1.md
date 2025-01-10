@@ -40,4 +40,3 @@ Résilience
     Gestion de crise cyber (préparation, entrainement, dispositif de crise, plans, RETEX) ;
     Reprise  d’activité.
 
-
