@@ -11,7 +11,7 @@ cascade:
 XX:heart_eyes:
 {{< /lead >}}
 
-Thématiques qui seront évoquées dans les articles du BLOC : 
+Thématiques qui seront évoquées dans les articles du BLOG : 
 
 ---
 
