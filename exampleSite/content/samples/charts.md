@@ -2,7 +2,7 @@
 title: "conformité RGPD"
 date: 2019-03-06
 description: "Guide méthodologie plan d'action mise en conformité RGPD"
-summary: "Congo includes Chart.js for powerful charts and data visualisations."
+summary: "fiches PA"
 
 ---
 
