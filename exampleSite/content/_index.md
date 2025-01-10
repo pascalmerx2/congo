@@ -7,8 +7,7 @@ description: "Une année belle,bonne,juste et généreuse."
 Audace, fantaisie, créativité .....
 {{< /lead >}}
 
-This is a demo site ...
-
+L'objectif 2025 sera d’accompagner les associations dans leur conformité RGPD et de les aider à mener à bien leurs projets de transformation numérique.
 
 
 ![A stylised ](blowfish_logo_transparent.jpg)
