@@ -1,5 +1,5 @@
 ---
-title: "Placeholder Text"
+title: "pilotage RGPD"
 date: "2019-03-09"
 lastmod: "2022-01-24"
 draft: true
@@ -9,31 +9,48 @@ showDateUpdated: true
 xml: false
 ---
 
-Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+Le RGPD (Règlement Général sur la Protection des Données), en son article 24, impose au responsable de traitement de mettre en œuvre des mesures techniques et organisationnelles appropriées pour s'assurer et être en mesure de démontrer que les traitements sont effectués conformément au règlement. Ces mesures sont réexaminées et actualisées si nécessaire.
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
+Afin de mettre en application les exigences du RGPD, les directions générales doivent faire réaliser des contrôles afin de s’assurer du respect du règlement, et d'autres dispositions du droit de l'Union ou du droit national, en matière de protection des données et des règles internes ou du sous-traitant en matière de protection des données à caractère personnel, y compris en ce qui concerne la répartition des responsabilités, la sensibilisation et la formation du personnel participant aux opérations de traitement, et les audits s'y rapportant (extrait du RGPD – art. 39).
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
 
-1. Comas hunc haec pietate fetum procerum dixit
-2. Post torum vates letum Tiresia
-3. Flumen querellas
-4. Arcanaque montibus omnes
-5. Quidem et
+Le principe directeur à respecter en matière de contrôle doit être basé sur la séparation des pouvoirs et devoirs, de définitions de règles, de mise en œuvre et de contrôles.
 
-## Vagus elidunt
+- La direction générale responsable des traitements doit faire définir les politiques et règles appropriées pour la mise en place des traitements de données à caractère personnel.
 
-<svg xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="186" width="248"><g fill="none"><path stroke="#000" stroke-width="2" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width="2" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width="2" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx="2" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx="2" ry="1.25"></ellipse></g></svg>
+- Le DPD définit les politiques, les règles et les instructions relatives aux traitements de données. Dans le cas où l’organisme (privé) n’aurait pas désigné de DPD, la responsabilité de la formalisation des règles incombe au chef de projet chargé de la mise en conformité des traitements.
 
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
+- Les directions métiers appliquent les politiques et les règles. Elles devront néanmoins réaliser leurs propres contrôles afin de réunir les premiers éléments d’analyse de la conformité ou pour fournir aux acteurs chargés des contrôles (DPD ou le service en charge) des éléments d’audit de premier niveau.
 
-### Mane refeci capiebant unda mulcebat
+- La DSI ou le sous-traitant met en œuvre les traitements de données en appliquant les règles, les politiques appropriées définies par le DPD, les instructions formalisées par les directions métiers au titre de l’article 28 du RGPD et les exigences de sécurité identifiées par le RSSI (s’il en existe un) et le DPD.
 
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
+- Le DPD contrôle l’application des règles de protection de la vie privée et de sécurité des données à caractère personnel. Il s’appuie sur le RSSI, s’il est nommé pour le contrôle de la bonne application des règles de sécurité.
 
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
+- Le DPD ne réalise pas de mise en œuvre de traitement ; il définit les règles, que les directions métiers doivent respecter ; le DPD peut ainsi contrôler leur application. Le RSSI ne réalise pas de mise en œuvre de traitement ; il définit les règles que les maîtres d’œuvre internes (par exemple, la DSI) ou externes (tel qu’un sous-traitant) doivent mettre en œuvre ; le RSSI peut ainsi contrôler leur application.
 
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, _oculos nomen_ non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides **parte**.
+
+Les réponses aux audits dans le cadre des contrôles doivent être accompagnées d’éléments de preuve (article 24). Chaque contrôle est adapté à chaque type ou niveau de la « voie fonctionnelle protection de la vie privée ». Ils sont des atouts majeurs pour suivre et améliorer non seulement la conformité, mais aussi pour analyser l’atteinte d’objectifs définis dans la politique de protection de la vie privée définie par la direction générale.
+
+Les objectifs de protection de la vie privée définis dans la politique de protection de la vie privée sont classiquement (attention, ces objectifs sont mentionnés à titre d’exemple, ils doivent être adaptés en fonction des contextes et des niveaux de maturité effectifs), voir l’article déjà paru dans MISC [2], « comment concevoir son référentiel protection de la vie privée en cohérence avec le référentiel SSI » :
+
+    La classification exhaustive des données à caractère personnel ;
+    L’obligation de formalisation des registres des traitements, des demandes d’exercices de droit des personnes concernées et de notifications de violations de données à caractère personnel ;
+    L’effectivité des droits des personnes concernées ;
+    Le renforcement de la culture « protection de la vie privée » ;
+    La définition des prérogatives pour engager contractuellement le sous-traitant ;
+    La sécurité des données et des traitements ;
+    L’évolution et le contrôle de la politique...
+
+Le niveau d’atteinte de chaque objectif n’est pas directement mesurable, aussi le DPD dans la politique de protection de la vie privée devra définir des sous-objectifs mesurables. Les résultats des contrôles pourront ainsi permettre de mesurer la conformité, mais aussi le niveau d’efficacité pour atteindre l’objectif.
+
+Les indicateurs utilisés pour mesurer l’atteinte des objectifs et des sous-objectifs mesurables sont classiquement :
+
+    Le nombre de directions métiers ayant classifié les données à caractère personnel et les traitements associés ;
+    Le nombre de traitements entièrement référencés dans le registre ;
+    Le niveau de complétude du registre ;
+    Le nombre de traitements conformes ;
+    Le nombre de services respectant les procédures et les moyens spécifiques aux traitements des données sensibles ou perçues comme sensibles ;
+    Le nombre de traitements respectant les exigences réglementaires consécutives à la législation concernant les droits des personnes concernées ;
+    Le pourcentage de règles de sécurité conformes ;
+    Le pourcentage de collaborateurs sensibilisés et la périodicité des formations ou ateliers de sensibilisation ;
+    Le nombre de contrôles.
