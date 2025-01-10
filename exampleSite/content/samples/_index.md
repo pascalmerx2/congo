@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-XX:heart_eyes:
+ :heart_eyes:
 {{< /lead >}}
 
 Thématiques qui seront évoquées dans les articles du BLOG : 
