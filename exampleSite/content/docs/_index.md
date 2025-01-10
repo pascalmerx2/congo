@@ -1,6 +1,6 @@
 ---
 title: "Documentation"
-description: "Learn how to use Congo and its features."
+description: "docs"
 
 cascade:
   showDate: false
@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Simple, yet powerful. Learn how to use it.
+Learn how to use it.
 {{< /lead >}}
 
 
