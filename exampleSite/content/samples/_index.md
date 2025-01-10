@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-Congo brings your content to life. :heart_eyes:
+XX:heart_eyes:
 {{< /lead >}}
 
 Le  RGPD est « obligatoire dans tous ses éléments et directement applicable dans tout Etat membre » de l’UE. L’objectif est de « redonner aux citoyens le contrôle de leurs données personnelles, tout en simplifiant l’environnement réglementaire des entreprises ».
