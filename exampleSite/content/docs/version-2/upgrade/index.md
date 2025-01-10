@@ -1,198 +1,34 @@
 ---
-title: "Upgrading from Congo 1.x"
-date: 2018-01-20
-draft: false
-description: "Discover what's new in Congo version 2.0."
+title: "etat des lieux SI"
+date: 2024-01-10
+draft: true
+description: "principe ."
 tags: ["new", "docs"]
 ---
 
-Although Congo 2.0 contains a large number of changes, the theme has been designed to minimise the effort required to upgrade to the latest release.
+Les systèmes d’information de nos organisations deviennent de plus en plus complexes. Pour assurer l’efficience et la sécurité du système, il est important de disposer d’une vue d’ensemble de tous les éléments sous forme de diagrammes ou de plans. Face à ce défi, Mercator est l’outil idéal.
+Pour faciliter la mise en place et le partage des informations collectées dans le cadre d’une cartographie, il est nécessaire de disposer d’un outil dédié à la cartographie permettant de représenter ces informations, de les mettre en forme, de les partager et de les analyser. Certes, on peut réaliser ce travail à l’aide d’outils bureautiques, mais pour une réelle efficacité, il est préférable d’utiliser un outil dédié à la cartographie tel que Mercator basé sur une méthodologie claire définie par l’ANSSI 
 
-That said, there are some changes that require adjustments to existing sites that are built with Congo version 1.x. This guide will step you through the process and highlight things you need to consider.
-
-## Step 1: Upgrade Hugo
-
-{{< alert >}}
-Congo 2.0 requires a minimum of **Hugo v0.87.0 or later**
-{{< /alert >}}
-
-Congo is built to take advantage of some of the latest Hugo features. You should regularly keep your Hugo installation up to date to avoid any issues.
-
-You can check your current version using the command `hugo version`. Visit the [Hugo docs](https://gohugo.io/getting-started/installing/) for information on obtaining a newer release for your platform.
-
-## Step 2: Upgrade Congo
-
-The process for upgrading Congo will depend on how you include the theme in your project. Instructions for each method can be found below.
-
-- [Upgrade using Hugo](#upgrade-using-hugo)
-- [Upgrade using git](#upgrade-using-git)
-- [Upgrade manually](#upgrade-manually)
-
-### Upgrade using Hugo
-
-To upgrade a go module to a new major release, the `modules.toml` and `go.mod` files need to be updated. In each file, update the path to the theme from `github.com/jpanther/congo` to `github.com/jpanther/congo/v2`.
-
-Then change into your project directory and execute the following command:
-
-```shell
-hugo mod get -u
-```
-
-Note that in some circumstances there may be issues with this step due to the way that Hugo locally caches modules. If the command above doesn't work, try using `hugo mod clean` to clear out the local cache and re-download any modules.
-
-Once the theme has been upgraded, continue to the [next section](#step-3-theme-configuration).
-
-### Upgrade using git
-
-Git submodules can be upgraded using the `git` command. Simply execute the following command and the latest version of the theme will be downloaded into your local repository:
-
-```shell
-git submodule update --remote --merge
-```
-
-Once the submodule has been upgraded, continue to the [next section](#step-3-theme-configuration).
-
-### Upgrade manually
-
-Updating Congo manually requires you to download the latest copy of the theme and replace the old version in your project.
+## Step 1: La méthodologie ANSSI
 
 {{< alert >}}
-Note that any local customisations you have made to the theme files will be lost during this process.
+Visit the [ANSSI DOC]([https://gohugo.io/getting-started/installing/](https://cyber.gouv.fr/publications/cartographie-du-systeme-dinformation))  
 {{< /alert >}}
 
-1. Download the latest release of the theme source code.
+L’ANSSI diffuse sur son site un document décrivant la démarche de réalisation d’une cartographie de système d’information. Elle se veut simple, pratique, progressive et adaptée à toute organisation. Elle décrit les cinq étapes de la construction d’une cartographie qui sont l’initiation de la démarche de cartographie, le choix du modèle, la sélection de l’outillage qui doit être utilisé, la construction de la cartographie et enfin la pérennisation de la cartographie. Cette approche est basée sur deux notions essentielles qui sont l’usage de plusieurs dimensions désignées sous le terme de « vue » ainsi que sur la définition de trois niveaux de granularité.
+L’objectif est de présenter le système d’information sous la forme de vues qui sont des représentations partielles du système d’information et de son fonctionnement. Il s’agit ici de faciliter la lisibilité et la compréhension des différents aspects du système d’information. Les vues décrites dans le document concernent l’écosystème, les aspects métiers, les applications, l’administration, les infrastructures logiques et physiques. Certaines données, jouant le rôle de pivot, assurent la jointure entre les vues. Les vues sont regroupées dans trois visions qui sont le métier, les applications et l’infrastructure. Leur organisation est pensée afin d’aller progressivement du domaine métier vers les aspects purement techniques.
+Pour l’ANSSI, il faut accepter le fait qu’une cartographie soit temporairement incomplète, ce qui sera généralement le cas. Pour cette raison, il faut adopter une démarche incrémentale et itérative, mais également instaurer des campagnes de mises à jour régulières. Cartographier doit avoir un caractère participatif et être envisagé dans une démarche projet concernant différents métiers au sein de l’organisation. La notion de complétude est ici envisagée au travers de la définition de trois niveaux de granularité qui précisent la nature des informations considérées comme devant être nécessairement collectées. Le premier niveau correspond aux informations indispensables, le second définit les informations importantes et enfin, le troisième niveau regroupe uniquement les informations utiles. Cette approche est destinée à éviter le découragement face à la multitude de données qu’il est nécessaire de collecter pour qu’une cartographie soit considérée comme complète. La démarche de l’ANSSI définit des paliers qu’il est possible d’atteindre par étapes.
+En ce qui concerne l'outillage, l’ANSSI préconise que le logiciel adopté satisfasse aux besoins de la constitution d’un inventaire, de la réalisation des vues et de la représentation des liens entre elles, et enfin, du suivi de la mise à jour de la cartographie. Elle conseille également la possibilité de générer des vues graphiques facilitant l’analyse du système d’information ainsi qu’une approche collaborative pour que les différents acteurs puissent contribuer à la constitution et à la maintenance de la cartographie. La démarche de l’ANSSI met par ailleurs l’accent sur des possibilités d’interopérabilité avec des outils de collecte informatique ainsi que sur des fonctionnalités d’exportation des données dans des formats de fichiers compatibles avec les principaux logiciels bureautiques. Il faut également pouvoir limiter l’accès aux différentes vues aux seules personnes concernées afin de garantir la confidentialité, mais aussi la qualité des données collectées.Plusieurs outils de cartographie d’un système d’information répondent à ces critères, mais ceux-ci sont généralement des logiciels propriétaires onéreux dont les données sont hébergées dans un nuage. Heureusement, il existe un logiciel libre et gratuit cochant toutes les cases, c’est Mercator.
 
-   {{< button href="https://github.com/jpanther/congo/releases/latest" target="_blank" >}}Download from Github{{< /button >}}
+## Step 2: Présentation de Mercator
 
-2. Extract the archive, rename the folder to `congo` and move it to the `themes/` directory inside your Hugo project's root folder. You will need to overwrite the existing directory to replace all the theme files.
+Le projet a été développé durant la période Covid, principalement pour pallier l’absence d’un outil open source mettant en œuvre les recommandations de l’ANSSI. Initialement adopté par plusieurs établissements hospitaliers en France pour satisfaire à l’exigence de disposer d’une cartographie de leur système d’information, nécessaire à la certification HDS (Hébergeur de Données de Santé), Mercator est désormais de plus en plus utilisé par des collectivités et des entreprises de taille moyenne. En juin 2024, le projet a reçu d’OW2 le prix du meilleur projet open source dans la catégorie « Communauté ». Mercator répond au besoin de disposer d’une vue d’ensemble du système d’information. 
 
-3. Continue to the [next section](#step-3-theme-configuration).
+### installation 
 
-## Step 3: Theme configuration
+[GIT](https://github.com/pascalmerx2))
+PS !Si vous ne voulez pas installer manuellement Mercator sur votre serveur, une solution alternative vous est proposée sous la forme d’une image Docker. La commande suivante télécharge l’image et démarre une instance de Mercator :
+docker run -it --rm -e USE_DEMO_DATA=1 -p 8000:80 ghcr.io/dbarzin/mercator:latest
+Si vous avez une petite expérience de Docker, c’est la solution la plus rapide pour tester ou déployer Mercator.
 
-Congo 2.0 introduces a number of new theme configuration parameters. Although the theme will adapt to existing version 1 configurations, in order to take advantage of some of the newer theme features, you will need to adjust your existing configuration.
-
-The simplest way to do this is to take a copy of the theme's default configuration and compare it to your existing files. The process is outlined in greater detail below.
-
-### Languages.toml
-
-In order to provide multilingual support, language-specific theme parameters have been moved to a new config file `languages.[lang-code].toml`. The theme comes with a template `languages.en.toml` file which can be used as a guide.
-
-{{< alert >}}
-This step is optional if you do not need multilingual support, although completing it now will make future theme upgrades easier.
-{{< /alert >}}
-
-The languages config file follows this structure:
-
-```toml
-# config/_default/languagues.en.toml
-
-languageCode = "en"
-languageName = "English"
-displayName = "EN"
-htmlCode = "en"
-weight = 1
-rtl = false
-
-# Language-specific parameters go here
 ```
-
-Using your preferred language, simply create this new file in `config/_default/` and then move the language-specific parameters from any existing config files over to this new file. The table below outlines the parameters that need to be moved.
-
-| Parameter     | Old location  |
-| ------------- | ------------- |
-| `title`       | `config.toml` |
-| `description` | `params.toml` |
-| `copyright`   | `config.toml` |
-| `dateFormat`  | `params.toml` |
-| `[author]`    | `config.toml` |
-
-Once the values have been moved to the new location, these parameters should be deleted from their original locations.
-
-### Menus.toml
-
-As the theme is now aware of languages, the `menus.toml` file should also be renamed to include a language code. Rename the existing `menus.toml` to `menus.[lang-code].toml`, where the language code matches the code used in the `languages.toml` file in the previous section.
-
-### Config.toml
-
-The `config.toml` file now only contains base Hugo configuration values. Other than removing the language-specific strings above, there are only two changes to consider.
-
-If you're using a language other than English, provide a `defaultContentLanguage` value that matches the language code in the config file you created for your language. Secondly, to take advange of the new site search in Congo 2.0, an `[outputs]` block needs to be provided.
-
-```toml
-# config/_default/config.toml
-
-defaultContentLanguage = "en"
-
-enableRobotsTXT = true
-paginate = 10
-summaryLength = 0
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-```
-
-### Markup.toml
-
-Congo 2.0 adds support for tables of contents on article pages. Although Hugo ships with default settings for generating contents listings, you can adjust this behaviour by adding a new `[tableOfContents]` block to your `markup.toml` file.
-
-The recommended settings are as follows, which includes any headings in the Markdown content at levels 2, 3 and 4:
-
-```toml
-# config/_default/markup.toml
-
-[tableOfContents]
-  startLevel = 2
-  endLevel = 4
-```
-
-### Params.toml
-
-A number of new theme parameters have been introduced in Congo 2.0. Some minor changes are requried to existing configurations. Remember, the theme will always revert to a sensible default if a parameter is not provided.
-
-The way that dark mode works in Congo has been changed to allow greater flexibility around configuration. The old `darkMode` and `darkToggle` parameters have been **removed and replaced** by three new parameters. These new options operate independently of each other, making it possible to force the appearance while still allowing the user to override.
-
-<!-- prettier-ignore-start -->
-| New parameter | Type | Default | Description |
-| --- | --- | --- | --- |
-| `defaultAppearance` | String | `"light"` | Default theme appearance; either `light` or `dark`.<br>:warning: _Setting this to `light` replicates the old `darkMode = false` setting, while `dark` replicates `darkMode = true`._ |
-| `autoSwitchAppearance` | Boolean | `true` | Whether the theme appearance automatically switches based upon the operating system preference. Set to `false` to force the site to always use the `defaultAppearance`. <br>:warning: _Setting this to `true` replicates the old `darkMode = "auto"` setting._ |
-| `showAppearanceSwitcher` | Boolean | `false` | Whether the theme appearance switcher is dispalyed in the site footer. <br>:warning: _This parameter replaces `darkToggle`._ |
-<!-- prettier-ignore-end -->
-
-The following table outlines some other key **new parameters** that control new features in version 2:
-
-| New parameter                 | Type    | Default |
-| ----------------------------- | ------- | ------- |
-| `enableSearch`                | Boolean | `false` |
-| `showScrollToTop`             | Boolean | `true`  |
-| `article.showTaxonomies`      | Boolean | `false` |
-| `article.showTableOfContents` | Boolean | `false` |
-| `list.showTableOfContents`    | Boolean | `false` |
-
-For the full list of supported parameters, refer to the [Configuration]({{< ref "docs/configuration" >}}) docs.
-
-## Step 4: Move assets
-
-All site assets, with the exception of favicons, now use Hugo Pipes to build an optimised version of your project. In order for the theme to locate your files, any previously static theme assets need to be moved to the Hugo assets folder. Primarily this is the author image and site logo:
-
-`static/me.jpg` **&rarr;** `assets/me.jpg`  
-`static/logo.jpg` **&rarr;** `assets/logo.jpg`
-
-If you have provided an author image or site logo, simply move these assets from `static/` to `assets/`. If you use the same directory structure the theme will know where to find these files automatically. If you would like to provide a new path, update the `logo` and `author.image` config values accordingly.
-
-Note that this step does not apply to any assets in your project that are actually static. For example, a PDF file that you link directly to from within an article is a static asset. These files should remain in the `static/` directory to ensure they are copied to the output folder when Hugo builds the site.
-
-## Step 5: Check content
-
-The behavior of the `figure` shortcode is different in version 2. If you are using `figure` in your content and have advanced use cases, you may need to adjust the parameters you are providing.
-
-Consult the [shortcode docs]({{< ref "docs/shortcodes#figure" >}}) to learn more about supported parameters.
-
-## Step 6: Rebuild
-
-Now that all the configuration changes are complete, it's time to rebuild the site. Run `hugo`, or your build command, and check that everything works as expected.
-
-If you come across any errors, check the configuration is correct and refer to the [full documentation]({{< ref "docs" >}}) for further guidance. Remember, the example config files bundled with the theme contain all the default parameters and are a great starting point.
-
-🙋‍♀️ If you still need help, feel free to ask your question on [GitHub Discussions](https://github.com/jpanther/congo/discussions).
