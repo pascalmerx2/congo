@@ -1,6 +1,6 @@
 ---
 title: Gestion des Risques Principes
-date: 2024-08-16
+date: 2025-01-11
 draft: true
 description: "How to install the Congo theme."
 slug: "installation"
