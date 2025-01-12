@@ -1,5 +1,5 @@
 ---
-title: "BLOG"
+title: "DOCS"
 description: "See what's possible"
 
 cascade:
@@ -14,6 +14,7 @@ cascade:
 
 ---
 
-D’une manière générale, la sécurité de l’information / cybersécurité et la protection de la vie privée traitent toutes deux de protection des données.
-L’objectif diffère : en sécurité de l’information, le but est de protéger l’organisme, alors qu’en protection de la vie privée, le but est de protéger les personnes. 
-Par contre l'analyse de Risques est similaire et peut se faire dans le cadre des événements redoutés, et l'analyse de risques préconisée par les autorités de régulation (concept EBIOS Risk Manager promu par ANSSI et CNIL)
+D’une manière générale, la sécurité de l’information et la protection de la vie privée ont des exigences pour la protection des données,
+En cybersécurité, le but est de protéger l’organisme ou entité, alors que pour la protection de la vie privée, l'objectif est de protéger les personnes. 
+Si les mesures de protection diffèrent (normes ISO..), la manière de gérer les risques est parfaitement compatible. Ainsi une analyse de risques Privacy (PIA) portant sur le traitement des données à caractère personnel, sera évaluée sur la base de principes fondamentaux (finalité déterminée, données minimisées, information des personnes, leur permettre l’exercice de leurs droits, etc.), et tout à fait entrer dans le cadre du socle de la démarche EBIOS Risk Manager préconisée par les autorités nationales de régulation (ANSSI et CNIL) pour identifier les impacts potentiels sur les personnes concernées et estimer leur gravité,
+
