@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Outils"
+  name = "Documentation de conformité RGPD"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Docs"
+  name = "Référentiel "
   pageRef = "samples"
   weight = 20
 
