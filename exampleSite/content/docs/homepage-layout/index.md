@@ -1,5 +1,5 @@
 ---
-title: "securisation site web"
+title: "Gestion des risques : etude de cas"
 date: 2020-08-13
 draft: false
 description: "etude de cas"
