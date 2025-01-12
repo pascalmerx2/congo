@@ -1,11 +1,9 @@
 ---
 title: "Documentation de conformité"
-description: "docs"
-
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
+date: 2024-01-10
+draft: true
+description: "principe ."
+tags: ["new", "docs"]
 ---
 
 {{< lead >}}
