@@ -18,15 +18,6 @@ showDateUpdated: true
 
      DPO : Délégué à la Protection des Données = le chef d’orchestre. Son rôle est d’informer et conseiller le Responsable de traitement, contrôler le respect du règlement, conseiller l’organisme, coopérer avec l’autorité de contrôle (CNIL).
 
- 
-## Rôle DPO :
-    S’informer, Sensibiliser.
-    Réaliser l’inventaire des traitements.
-    Concevoir les actions de sensibilisation.
-    Piloter la conformité en continu.
-    assurer « un suivi régulier et systématique à grande échelle des personnes concernées »
-    Le DPO/DPD contrôle le respect du règlement, conseille le responsable des traitements sur son application. Etant en relation avec l’autorité de contrôle (la CNIL), il répond aux sollicitations des personnes de l’organisation qui souhaitent exercer leurs droits.
-
 
 ## Identifier les actions prioritaires
     Le principe de minimisation (Les données traitées doivent aussi être adéquates, pertinentes et limitées à ce qui est nécessaire, au regard des finalités pour lesquelles elles sont traitées).
@@ -35,19 +26,18 @@ showDateUpdated: true
     Les obligations contractuelles relatives aux sous-traitants.
     Les droits des personnes.
     Les mesures de sécurité mises en place.
-
  
 ## Organiser les processus internes
     Prendre en compte la protection des DCP dès la conception d’une application ou d’un traitement.
     Sensibiliser les collaborateurs du cabinet aux problématiques de protection des DCP.
     Traiter les réclamations et demandes des personnes quant à l’exercice de leurs droits.
     Notifier à l’autorité de contrôle et communiquer aux personnes concernées la violation de données personnelles.
-
  
 ## Documenter la conformité
-  
+Ces documents portent notamment sur la conformité des données à caractère personnel (registre des traitements maintenu et à jour, analyses d'impacts, procédures et notifications, actions de formation et sensibilisation , la sécurité du systeme d'information (cartographie et état des lieux SI, gestion des accès, mécanismes de purge et sauvegarde, durée de conservation..) , pseudonymisation..)
 
 ### La documentation sur le traitement des DCP :
+Il s'agit de référencer les informations essentielles telles que le nom du traitement, sa finalité, les interlocuteurs, les catégories de données traitées, les données à risques, les destinataires des données, les flux et transferts de données, les sous-traitants, l’hébergement des données ou encore l’application d’une politique d’archivage. Ce tableau est sommaire, mais il constitue une synthèse pour détecter les traitements à risques (manipulation de données à caractère personnel), compléter une fiche de registre et constituer le registre des traitements.
     Le registre des traitements.
     Les analyses d’impact.
     L’entreprise doit conserver les preuves de la conformité des traitements des DCP.
@@ -69,6 +59,14 @@ showDateUpdated: true
      Le « Droit à la portabilité des données personnelles » : chacun peut exiger d’un responsable de traitement que le fichier de ses données individuelles lui soit remis « dans un format structuré, couramment utilisé et lisible par machine ».
 
      Le « Profilage » : toute personne peut refuser de faire l’objet d’une décision fondée sur un traitement automatisé, y compris le « profilage », ayant des effets juridiques ou l’affectant de fait.
+
+### Mesures de sécurité techniques et organisationnelles
+
+#### sécurisation logique et physique du système d’information de l’organisation. 
+     Ces documents décrivent la sécurisation des postes de travail (authentification, antivirus, chiffrement du stockage, etc.), des serveurs (authentification, mises à jour, sauvegardes, etc.) et de l’infrastructure réseau. Ils présentent les mesures prises pour la sécurisation des locaux (contrôle d’accès, surveillance, gestion des pannes électriques ou des incendies, etc.). Ils exposent les mesures de traçabilité (journaux systèmes, etc.).  
+     
+#### Cette documentation est généralement complétée par un PRA (Plan de Reprise d’Activité) donnant la marche à suivre en cas d’incident grave
+
 
 ### La protection des données « dès la conception » (‘privacy by design’) :
 
