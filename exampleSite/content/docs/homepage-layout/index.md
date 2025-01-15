@@ -27,5 +27,7 @@ Question : quel est l’existant en matière de sécurité de l’information (s
      
      - Question à se poser : qu’est-ce que l’organisation veut protéger (processus, données, fonctions) ?
      
+     - Imaginez ce qui pourrait arriver aux personnes concernées, si au regard des donnnées traités, accès illégitime, modification données, pertes et disparition .. 
+     
      - Identifier les évènements redoutés pour les sous finalités en identifiant les évènements redoutés,les catégories d'impact, la gravité et les commentaires
      
