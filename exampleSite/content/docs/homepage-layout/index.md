@@ -17,19 +17,15 @@ Rappels concepts EBIOS pour analyse d'impact  :
     
     - Impact (IP) : sens juridique pour un PIA
 
-Quels sont les scénarios que l’association redoute (événements redoutés) ?
-    - VM : ex "Données personnelles manipulées dans le SI"
-    - ER : Divulgation de données, perte de données
-    - IP : Juridique, réputation, financier
 
 Quel est l’existant en matière de sécurité de l’information (socle de sécurité) ?
      - Identifier au titre d'une finalité les traitements "susceptibles d'engendrer un risque élevé sur les droits et personnes physiques" source Registre tenu à jour par Délégué à la Protection des Données
      
-     - Question à se poser : qu’est-ce que l’organisation veut protéger (processus, données, fonctions) ?
+     - Qu’est-ce que l’organisation veut protéger (processus, données, fonctions) ?
      
-     - Imaginez ce qui pourrait arriver aux personnes concernées, si au regard des donnnées traités, accès illégitime, modification données, pertes et disparition .. 
+     - Imaginez ce qui pourrait arriver aux personnes concernées, si au regard des donnnées traités, accès illégitime, altération des données, pertes et disparition ..
      
-     - Identifier les évènements redoutés pour les sous finalités en identifiant les évènements redoutés et leur niveau de gravité (catégories d'impact, gravité et  commentaires)
+     - Identifier les évènements redoutés pour les sous finalités en identifiant les évènements redoutés et leur niveau de gravité (catégories d'impact (juridique, réputation, financier, gravité et  commentaires)
 
 Quel est le niveau de conformité (socle de sécurité) ?
       - Pour un SI déjà en service, audit de sécurité a été réalisé et des mesures correctives identifiées (techniques/organisationnelles/physiques/juridiques) ?
