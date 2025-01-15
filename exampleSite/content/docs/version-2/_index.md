@@ -18,7 +18,7 @@ L’ANSSI diffuse sur son site un document décrivant la démarche de réalisati
 
 ## Step 2: Présentation de Mercator
 Initialement adopté par plusieurs établissements hospitaliers en France pour satisfaire à l’exigence de disposer d’une cartographie de leur système d’information, nécessaire à la certification HDS (Hébergeur de Données de Santé), Mercator est désormais de plus en plus utilisé par des collectivités et des entreprises de taille moyenne.
-### installation [GIT](https://github.com/pascalmerx2)
+installation [GIT](https://github.com/pascalmerx2)
 
 
 ```
