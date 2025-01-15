@@ -9,11 +9,11 @@ showDateUpdated: true
 xml: false
 ---
 
-#### Le RGPD (Règlement Général sur la Protection des Données), en son article 24, impose au responsable de traitement de mettre en œuvre des mesures techniques et organisationnelles appropriées pour s'assurer et être en mesure de démontrer que les traitements sont effectués conformément au règlement. Ces mesures sont réexaminées et actualisées si nécessaire.
+Le RGPD (Règlement Général sur la Protection des Données), en son article 24, impose au responsable de traitement de mettre en œuvre des mesures techniques et organisationnelles appropriées pour s'assurer et être en mesure de démontrer que les traitements sont effectués conformément au règlement. Ces mesures sont réexaminées et actualisées si nécessaire.
 
-#### Les réponses aux audits dans le cadre des contrôles doivent être accompagnées d’éléments de preuve (article 24). Chaque contrôle est adapté à chaque type ou niveau de la « voie fonctionnelle protection de la vie privée ». Ils sont des atouts majeurs pour suivre et améliorer non seulement la conformité, mais aussi pour analyser l’atteinte d’objectifs définis dans la politique de protection de la vie privée définie par la direction générale.
+Les réponses aux audits dans le cadre des contrôles doivent être accompagnées d’éléments de preuve (article 24). Chaque contrôle est adapté à chaque type ou niveau de la « voie fonctionnelle protection de la vie privée ». Ils sont des atouts majeurs pour suivre et améliorer non seulement la conformité, mais aussi pour analyser l’atteinte d’objectifs définis dans la politique de protection de la vie privée définie par la direction générale.
 
-#### Les objectifs de protection de la vie privée définis dans la politique de protection de la vie privée concernent notamment 
+#### Les objectifs de protection de la vie privée dans la politique de protection de la vie privée 
 
     La classification exhaustive des données à caractère personnel ;
     L’obligation de formalisation des registres des traitements, des demandes d’exercices de droit des personnes concernées et de notifications de violations de données à caractère personnel ;
@@ -23,9 +23,8 @@ xml: false
     La sécurité des données et des traitements ;
     L’évolution et le contrôle de la politique...
 
-#### Le niveau d’atteinte de chaque objectif n’est pas directement mesurable, aussi le DPD dans la politique de protection de la vie privée devra définir des sous-objectifs mesurables. Les résultats des contrôles pourront ainsi permettre de mesurer la conformité, mais aussi le niveau d’efficacité pour atteindre l’objectif.
-
-#### Les indicateurs utilisés pour mesurer l’atteinte des objectifs et des sous-objectifs mesurables sont classiquement :
+#### Les indicateurs pour mesurer l’atteinte des objectifs 
+:
 
     Le nombre de directions métiers ayant classifié les données à caractère personnel et les traitements associés ;
     Le nombre de traitements entièrement référencés dans le registre ;
