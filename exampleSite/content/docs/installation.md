@@ -22,9 +22,10 @@ tags: ["installation", "docs"]
 
 #### Quelles sont les parties prenantes (fournisseurs, clients, partenaires) dans notre écosystème et sont-elles menaçantes pour l’organisation ? 
 
-Afin de calculer les niveaux de menaces des parties prenantes,  calcul suivant : (Dépendance * Pénétration / Maturité Cyber * Confiance) pour hébergeur, dev..
+    Identifier les tiers (sous traitants, partenaires, fournisseurs) 
+    Calculer les niveaux de menaces des parties prenantes  (Dépendance * Pénétration / Maturité Cyber * Confiance) pour hébergeur, dev..
 
-#### quels sont les scénarios d'attaque envisageables ? 
+#### quels sont les scénarios d'attaque envisageables et mesures préventives ? 
     le cybercriminel qui attaque en direct les systèmes pour obtenir les données personnelles, l'hébergeur (sous traitant),..?
     
     Employé mal intentionné qui est déjà à l’intérieur de l’entreprise et qui attaque les données personnelles
