@@ -10,25 +10,18 @@ showDateUpdated: true
 
 Lexique et langage RGPD
 
-RGPD : Règlement Général sur la Protection des Données. Le règlement Européen relatif à la protection des données est entré en vigueur le 25 mai 2018.
+     RGPD : Règlement Général sur la Protection des Données. Le règlement Européen relatif à la protection des données est entré en vigueur le 25 mai 2018.
 
-DCP : Données à Caractères Personnelles. Toute information se rapportant à une personne physique identifiée ou identifiable (ci-après dénommée «personne concernée»). Est réputée être une «personne physique identifiable» une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu’un nom, un numéro d’identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale.
+     DCP : Données à Caractères Personnelles. Toute information se rapportant à une personne physique identifiée ou identifiable (ci-après dénommée «personne concernée»). Est réputée être une «personne physique identifiable» une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu’un nom, un numéro d’identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale.
 
-RT : Responsable de traitement. C’est la personne qui va porter la responsabilité légale du traitement = un dirigeant. Le responsable du traitement définit la manière dont les données personnelles sont traitées et à quelles fins. Il est également responsable de s’assurer que les sous-traitants de l’entreprise respectent le RGPD.
+     RT : Responsable de traitement. C’est la personne qui va porter la responsabilité légale du traitement = un dirigeant. Le responsable du traitement définit la manière dont les données personnelles sont traitées et à quelles fins. Il est également responsable de s’assurer que les sous-traitants de l’entreprise respectent le RGPD.
 
-DPO : Délégué à la Protection des Données = le chef d’orchestre. Son rôle est d’informer et conseiller le Responsable de traitement, contrôler le respect du règlement, conseiller l’organisme, coopérer avec l’autorité de contrôle (CNIL).
-
-Vous aurez compris que le RT et le DPO sont les personnes qui devront s’assurer de la mise en place du RGPD dans l’entreprise, de son respect et de son suivi.
+     DPO : Délégué à la Protection des Données = le chef d’orchestre. Son rôle est d’informer et conseiller le Responsable de traitement, contrôler le respect du règlement, conseiller l’organisme, coopérer avec l’autorité de contrôle (CNIL).
 
  
 Désigner un DPO
 
-Un DPO pour le groupe. La désignation d’un DPO n’est pas obligatoire mais très fortement recommandé pour la bonne application du RGPD. Cette désignation aide à se mettre en conformité au RGPD.
-
-Le DPO est obligatoire pour les organismes suivants :
-
-    Les responsables de traitement du secteur public.
-    les entreprises dont l’activité principale les amène à réaliser du profiling à grande échelle ou si leur activité les amène à traiter (toujours à grande échelle) des données dites «sensibles» ou relatives à des condamnations.
+    Le DPO est obligatoire pour les responsables de traitement du secteur public. les entreprises dont l’activité principale les amène à réaliser du profiling à grande échelle ou si leur activité les amène à traiter (toujours à grande échelle) des données dites «sensibles» ou relatives à des condamnations.
 
 Son profil :
 
