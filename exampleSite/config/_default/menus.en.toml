@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Documentation de conformité RGPD"
+  name = "Documentation de conformité"
   pageRef = "docs"
   weight = 10
 
