@@ -8,8 +8,11 @@ tags: ["config", "docs"]
 ---
 
 #### Rappels concepts : 
-    Risque initial : scénario de risque évalué avant application de la stratégie de traitement du risque. Cette évaluation repose sur la gravité et la vraisemblance du risque 
-    Risque résiduel : scénario de risque subsistant après application de la stratégie de traitement du risque. Cette évaluation repose sur la gravité et la vraisemblance du risque.
+    Risque initial : scénario de risque évalué avant application de la stratégie de traitement du risque
+    
+    Risque résiduel : scénario de risque subsistant après application de la stratégie de traitement du risque
+    
+    Cette évaluation repose sur la gravité et la vraisemblance du risque 
 
 #### quels sont les scénarios de risque (récapitulatif) ?
     - Déterminer le plan d'action (qui doit faire quoi? Quand ? Ressources ?)
