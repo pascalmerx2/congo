@@ -7,20 +7,20 @@ tags: ["rgpd", "sample"]
 
 ---
 
-Objectifs
+### Objectifs
     Comprendre les exigences du cadre règlementaire de la protection des données personnelles
     Identifier des actions à mettre en place pour se conformer aux exigences du RGPD
 
-Programme 
+### Programme 
 
-Les données personnelles
+#### Les données personnelles
 
     Enjeux autour de la collecte de données
     Les données personnelles
     Le cadre règlementaire
     Garants de la protection des données personnelles
 
-L’application du RGPD dans l’association
+#### L’application du RGPD dans l’association
 
     L’association et le RGPD
     La mise en conformité
@@ -28,7 +28,7 @@ L’application du RGPD dans l’association
     Le registre des activités de traitement
     Effectuer un état des lieux
 
-La sécurité des données
+#### La sécurité des données
 
     Incidents
     Notifications de violation de données personnelles
