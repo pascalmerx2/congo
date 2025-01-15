@@ -19,59 +19,32 @@ Lexique et langage RGPD
      DPO : Délégué à la Protection des Données = le chef d’orchestre. Son rôle est d’informer et conseiller le Responsable de traitement, contrôler le respect du règlement, conseiller l’organisme, coopérer avec l’autorité de contrôle (CNIL).
 
  
-Désigner un DPO
+Rôle DPO :
 
-    Le DPO est obligatoire pour les responsables de traitement du secteur public. les entreprises dont l’activité principale les amène à réaliser du profiling à grande échelle ou si leur activité les amène à traiter (toujours à grande échelle) des données dites «sensibles» ou relatives à des condamnations.
-
-Son profil :
-
-    Le DPO doit avoir les connaissances légales et techniques.
-    Il doit avoir accès à toutes les données et tout le système d’information de l’entreprise.
-    Mais il ne doit pas être juge et partie, ne doit pas faire partie de la direction.
-    Très similaire à un profil « Qualité ».
-
-Son rôle :
-
-    S’informer.
-    Sensibiliser.
+    S’informer, Sensibiliser.
     Réaliser l’inventaire des traitements.
     Concevoir les actions de sensibilisation.
     Piloter la conformité en continu.
-    Rendre compte au RT.
+    assurer « un suivi régulier et systématique à grande échelle des personnes concernées »
+    Le DPO contrôle le respect du règlement, conseille le responsable des traitements sur son application. Etant en relation avec l’autorité de contrôle (la CNIL), il répond aux sollicitations des personnes de l’organisation qui souhaitent exercer leurs droits.
 
-Sa mission est d’assurer « un suivi régulier et systématique à grande échelle des personnes concernées ». Le DPO est associé à toutes questions se rapportant à la protection des données à caractère personnel. Il contrôle le respect du règlement, conseille le responsable des traitements sur son application. Etant en relation avec l’autorité de contrôle (la CNIL), il répond aux sollicitations des personnes de l’organisation qui souhaitent exercer leurs droits.
 
-Responsabilité :
+Cartographier le traitement des données
 
-Il n’est pas responsable en cas de non-respect du règlement.
+    Qui ? Il s’agit d’identifier les acteurs, à savoir le responsable du traitement, les sous-traitants, les destinataires des données.
 
- 
-RGPD comment se mettre en conformité : Cartographier le traitement des données
+    Quoi ? Il s’agit de savoir quelles sont les DCP que le cabinet collecte et traite.
 
-La cartographie du traitement des données est une étape indispensable pour se mettre en conformité RGPD. Ce qui revient à identifier les DCP et à écrire les procédures de traitement des DCP.
+    Pourquoi ? Il s’agit de déterminer la finalité du traitement des DCP, pour quel objectif.
 
-Qui ?
-Il s’agit d’identifier les acteurs, à savoir le responsable du traitement, les sous-traitants, les destinataires des données.
+    Où ? Il s’agit de déterminer où sont stockées les DCP.
 
-Quoi ?
-Il s’agit de savoir quelles sont les DCP que le cabinet collecte et traite.
+    Quand ? Il s’agit d’indiquer la durée de conservation pour chaque catégorie de DCP.
 
-Pourquoi ?
-Il s’agit de déterminer la finalité du traitement des DCP, pour quel objectif.
-
-Où ?
-Il s’agit de déterminer où sont stockées les DCP.
-
-Quand ?
-Il s’agit d’indiquer la durée de conservation pour chaque catégorie de DCP.
-
-Comment ?
-Il s’agit d’identifier les mesures de sécurité mises en place pour garantir la protection des DCP.
+    Comment ? Il s’agit d’identifier les mesures de sécurité mises en place pour garantir la protection des DCP.
 
  
 Identifier les actions prioritaires
-
-Suite à cette cartographie, il faudra identifier les actions prioritaires pour savoir comment se mettre en conformité RGPD. L’entreprise devra déterminer si elle respecte :
 
     Le principe de minimisation (Les données traitées doivent aussi être adéquates, pertinentes et limitées à ce qui est nécessaire, au regard des finalités pour lesquelles elles sont traitées).
     Le principe de licéité (Les données doivent être traitées de manière loyale, licite et transparente).
@@ -83,14 +56,10 @@ Suite à cette cartographie, il faudra identifier les actions prioritaires pour 
  
 Gérer les risques
 
-Il s’agit d’identifier les Données à caractère personnel (DCP) susceptibles d’engendrer des risques pour les droits et les libertés des personnes.
-
-Pensez par exemple à bien vous protéger sur Facebook.
+    Il s’agit d’identifier les Données à caractère personnel (DCP) susceptibles d’engendrer des risques pour les droits et les libertés des personnes.
 
  
 Organiser les processus internes
-
-Il s’agit de mettre en place des processus qui garantissent la conformité des traitements des DCP :
 
     Prendre en compte la protection des DCP dès la conception d’une application ou d’un traitement.
     Sensibiliser les collaborateurs du cabinet aux problématiques de protection des DCP.
@@ -99,39 +68,38 @@ Il s’agit de mettre en place des processus qui garantissent la conformité des
 
  
 Documenter la conformité
+  
 
-L’entreprise doit conserver les preuves de la conformité des traitements des DCP.
-
-La documentation sur le traitement des DCP :
+## La documentation sur le traitement des DCP :
 
     Le registre des traitements.
     Les analyses d’impact.
+    L’entreprise doit conserver les preuves de la conformité des traitements des DCP.
     Encadrement des transferts de données hors de l’UE.
 
-L’information des personnes :
+## L’information des personnes :
 
     Les mentions d’informations.
     Les preuves du recueil du consentement des DCP.
 
-Les contrats qui définissent les rôles et les responsabilités des acteurs :
+## Les contrats qui définissent les rôles et les responsabilités des acteurs :
 
     Les contrats avec les sous-traitants.
     Les procédures internes en cas de violation de données.
 
-« Consentement explicite et positif » des intéressés : l’accord doit être obtenu de façon claire et non par défaut, par les entreprises ou organisations exploitant de telles données.
+## Droits des personnes
+     « Consentement explicite et positif » des intéressés : l’accord doit être obtenu de façon claire et non par défaut, par les entreprises ou organisations exploitant de telles données.
 
-Le « Droit à l’effacement » : il remplace le « droit à l’oubli » et peut être invoqué pour 6 motifs. La purge des fichiers doit être exécutée « dans les meilleurs délais ».
+     Le « Droit à l’effacement » : il remplace le « droit à l’oubli » et peut être invoqué pour 6 motifs. La purge des fichiers doit être exécutée « dans les meilleurs délais ».
 
-Le « Droit à la portabilité des données personnelles » : chacun peut exiger d’un responsable de traitement que le fichier de ses données individuelles lui soit remis « dans un format structuré, couramment utilisé et lisible par machine ».
+     Le « Droit à la portabilité des données personnelles » : chacun peut exiger d’un responsable de traitement que le fichier de ses données individuelles lui soit remis « dans un format structuré, couramment utilisé et lisible par machine ».
 
-Le « Profilage » : toute personne peut refuser de faire l’objet d’une décision fondée sur un traitement automatisé, y compris le « profilage », ayant des effets juridiques ou l’affectant de fait.
+     Le « Profilage » : toute personne peut refuser de faire l’objet d’une décision fondée sur un traitement automatisé, y compris le « profilage », ayant des effets juridiques ou l’affectant de fait.
 
-La protection des données « dès la conception » (‘privacy by design’) et un « dispositif de « sécurité par défaut » :
+## La protection des données « dès la conception » (‘privacy by design’) et un « dispositif de « sécurité par défaut » :
 
     Le responsable de traitement doit prendre des mesures préventives de protection des données personnelles dès la conception des produits, services ou systèmes qui doivent donc être sécurisés.
 
-À lire : Comment se protéger des virus informatiques ?
+    La « notification en cas de fuite, vol ou violation de données » : le détenteur de données personnelles doit avertir, « dès que possible » et dans un délai maximal de 72 heures, l’autorité nationale de protection (la CNIL, en France). La mesure ne s’applique pas s’il est établi que les données sont chiffrées, réputées inviolables, et elle est assortie d’exception pour les organisations de moins de 250 salariés.
 
-La « notification en cas de fuite, vol ou violation de données » : le détenteur de données personnelles doit avertir, « dès que possible » et dans un délai maximal de 72 heures, l’autorité nationale de protection (la CNIL, en France). La mesure ne s’applique pas s’il est établi que les données sont chiffrées, réputées inviolables, et elle est assortie d’exception pour les organisations de moins de 250 salariés.
 
-Une étude d’impact : tout traitement ou activité traitant de données à caractère personnel doit être précédé d’une « étude d’impact sur la vie privée » qui prévoit des mesures préventives de protection de ces données.
