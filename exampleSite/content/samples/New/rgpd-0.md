@@ -8,7 +8,7 @@ tags: ["rgpd", "sample"]
 showDateUpdated: true
 ---
 
-Lexique et langage RGPD
+## Lexique et langage RGPD
 
      RGPD : Règlement Général sur la Protection des Données. Le règlement Européen relatif à la protection des données est entré en vigueur le 25 mai 2018.
 
@@ -19,33 +19,16 @@ Lexique et langage RGPD
      DPO : Délégué à la Protection des Données = le chef d’orchestre. Son rôle est d’informer et conseiller le Responsable de traitement, contrôler le respect du règlement, conseiller l’organisme, coopérer avec l’autorité de contrôle (CNIL).
 
  
-Rôle DPO :
-
+## Rôle DPO :
     S’informer, Sensibiliser.
     Réaliser l’inventaire des traitements.
     Concevoir les actions de sensibilisation.
     Piloter la conformité en continu.
     assurer « un suivi régulier et systématique à grande échelle des personnes concernées »
-    Le DPO contrôle le respect du règlement, conseille le responsable des traitements sur son application. Etant en relation avec l’autorité de contrôle (la CNIL), il répond aux sollicitations des personnes de l’organisation qui souhaitent exercer leurs droits.
+    Le DPO/DPD contrôle le respect du règlement, conseille le responsable des traitements sur son application. Etant en relation avec l’autorité de contrôle (la CNIL), il répond aux sollicitations des personnes de l’organisation qui souhaitent exercer leurs droits.
 
 
-Cartographier le traitement des données
-
-    Qui ? Il s’agit d’identifier les acteurs, à savoir le responsable du traitement, les sous-traitants, les destinataires des données.
-
-    Quoi ? Il s’agit de savoir quelles sont les DCP que le cabinet collecte et traite.
-
-    Pourquoi ? Il s’agit de déterminer la finalité du traitement des DCP, pour quel objectif.
-
-    Où ? Il s’agit de déterminer où sont stockées les DCP.
-
-    Quand ? Il s’agit d’indiquer la durée de conservation pour chaque catégorie de DCP.
-
-    Comment ? Il s’agit d’identifier les mesures de sécurité mises en place pour garantir la protection des DCP.
-
- 
-Identifier les actions prioritaires
-
+## Identifier les actions prioritaires
     Le principe de minimisation (Les données traitées doivent aussi être adéquates, pertinentes et limitées à ce qui est nécessaire, au regard des finalités pour lesquelles elles sont traitées).
     Le principe de licéité (Les données doivent être traitées de manière loyale, licite et transparente).
     L’obligation de mentions d’information.
@@ -54,40 +37,31 @@ Identifier les actions prioritaires
     Les mesures de sécurité mises en place.
 
  
-Gérer les risques
-
-    Il s’agit d’identifier les Données à caractère personnel (DCP) susceptibles d’engendrer des risques pour les droits et les libertés des personnes.
-
- 
-Organiser les processus internes
-
+## Organiser les processus internes
     Prendre en compte la protection des DCP dès la conception d’une application ou d’un traitement.
     Sensibiliser les collaborateurs du cabinet aux problématiques de protection des DCP.
     Traiter les réclamations et demandes des personnes quant à l’exercice de leurs droits.
     Notifier à l’autorité de contrôle et communiquer aux personnes concernées la violation de données personnelles.
 
  
-Documenter la conformité
+## Documenter la conformité
   
 
-# La documentation sur le traitement des DCP :
-
+### La documentation sur le traitement des DCP :
     Le registre des traitements.
     Les analyses d’impact.
     L’entreprise doit conserver les preuves de la conformité des traitements des DCP.
     Encadrement des transferts de données hors de l’UE.
 
-#  L’information des personnes :
-
+###  L’information des personnes :
     Les mentions d’informations.
     Les preuves du recueil du consentement des DCP.
 
-# Les contrats qui définissent les rôles et les responsabilités des acteurs :
-
+### Les contrats qui définissent les rôles et les responsabilités des acteurs :
     Les contrats avec les sous-traitants.
     Les procédures internes en cas de violation de données.
 
-#  Droits des personnes
+###  Droits des personnes
      « Consentement explicite et positif » des intéressés : l’accord doit être obtenu de façon claire et non par défaut, par les entreprises ou organisations exploitant de telles données.
 
      Le « Droit à l’effacement » : il remplace le « droit à l’oubli » et peut être invoqué pour 6 motifs. La purge des fichiers doit être exécutée « dans les meilleurs délais ».
@@ -96,7 +70,7 @@ Documenter la conformité
 
      Le « Profilage » : toute personne peut refuser de faire l’objet d’une décision fondée sur un traitement automatisé, y compris le « profilage », ayant des effets juridiques ou l’affectant de fait.
 
-# La protection des données « dès la conception » (‘privacy by design’) et un « dispositif de « sécurité par défaut » :
+### La protection des données « dès la conception » (‘privacy by design’) :
 
     Le responsable de traitement doit prendre des mesures préventives de protection des données personnelles dès la conception des produits, services ou systèmes qui doivent donc être sécurisés.
 
