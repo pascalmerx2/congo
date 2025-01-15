@@ -8,7 +8,7 @@ tags: ["homepage", "layouts", "docs"]
 ---
 
 
-Rappels concepts EBIOS pour analyse d'impact  :
+#### Rappels concepts EBIOS :
     - Valeur métier (VM) : toute ressource qui a de la valeur pour l'organisme et qui est nécessaire à la réalisation de ses objectifs (données, processus, fonctions) 
     
     - Bien de support (BS) : composante du système d’information sur laquelle reposent une ou plusieurs valeurs métier. Un bien support peut être un logiciel, matériel, réseau, une personne, etc.
@@ -18,7 +18,7 @@ Rappels concepts EBIOS pour analyse d'impact  :
     - Impact (IP) : sens juridique pour un PIA
 
 
-Quel est l’existant en matière de sécurité de l’information (socle de sécurité) ?
+#### Quel est l’existant en matière de sécurité de l’information ?
      - Identifier au titre d'une finalité les traitements "susceptibles d'engendrer un risque élevé sur les droits et personnes physiques" source Registre tenu à jour par Délégué à la Protection des Données
      
      - Qu’est-ce que l’organisation veut protéger (processus, données, fonctions) ?
@@ -27,8 +27,8 @@ Quel est l’existant en matière de sécurité de l’information (socle de sé
      
      - Identifier les évènements redoutés pour les sous finalités en identifiant les évènements redoutés et leur niveau de gravité (catégories d'impact (juridique, réputation, financier, gravité et  commentaires)
 
-Quel est le niveau de conformité (socle de sécurité) ?
-      - Pour un SI déjà en service, audit de sécurité a été réalisé et des mesures correctives identifiées (techniques/organisationnelles/physiques/juridiques) ?
+#### Quel est le niveau de conformité du socle de sécurité ?
+      - Pour un SI déjà en service et audit de sécurité a été réalisé, etat des mesures correctives identifiées (techniques/organisationnelles/physiques/juridiques) ?
      
       - Clauses de sécurité avec prestataires définies ?
      
