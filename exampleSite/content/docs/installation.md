@@ -1,5 +1,5 @@
 ---
-title: Atelier 3 : scénarios stratégiques
+title: Atelier 3 scénarios stratégiques
 date: 2019-01-11
 draft: true
 description: "How to install the Congo theme."
