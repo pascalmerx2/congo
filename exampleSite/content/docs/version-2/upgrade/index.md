@@ -1,6 +1,6 @@
 ---
 title: "etat des lieux SI-save"
-date: 2014-01-10
+date: 2010-01-10
 draft: true
 description: "principe ."
 tags: ["new", "docs"]
@@ -20,15 +20,3 @@ L’objectif est de présenter le système d’information sous la forme de vues
 Pour l’ANSSI, il faut accepter le fait qu’une cartographie soit temporairement incomplète, ce qui sera généralement le cas. Pour cette raison, il faut adopter une démarche incrémentale et itérative, mais également instaurer des campagnes de mises à jour régulières. Cartographier doit avoir un caractère participatif et être envisagé dans une démarche projet concernant différents métiers au sein de l’organisation. La notion de complétude est ici envisagée au travers de la définition de trois niveaux de granularité qui précisent la nature des informations considérées comme devant être nécessairement collectées. Le premier niveau correspond aux informations indispensables, le second définit les informations importantes et enfin, le troisième niveau regroupe uniquement les informations utiles. Cette approche est destinée à éviter le découragement face à la multitude de données qu’il est nécessaire de collecter pour qu’une cartographie soit considérée comme complète. La démarche de l’ANSSI définit des paliers qu’il est possible d’atteindre par étapes.
 En ce qui concerne l'outillage, l’ANSSI préconise que le logiciel adopté satisfasse aux besoins de la constitution d’un inventaire, de la réalisation des vues et de la représentation des liens entre elles, et enfin, du suivi de la mise à jour de la cartographie. Elle conseille également la possibilité de générer des vues graphiques facilitant l’analyse du système d’information ainsi qu’une approche collaborative pour que les différents acteurs puissent contribuer à la constitution et à la maintenance de la cartographie. La démarche de l’ANSSI met par ailleurs l’accent sur des possibilités d’interopérabilité avec des outils de collecte informatique ainsi que sur des fonctionnalités d’exportation des données dans des formats de fichiers compatibles avec les principaux logiciels bureautiques. Il faut également pouvoir limiter l’accès aux différentes vues aux seules personnes concernées afin de garantir la confidentialité, mais aussi la qualité des données collectées.Plusieurs outils de cartographie d’un système d’information répondent à ces critères, mais ceux-ci sont généralement des logiciels propriétaires onéreux dont les données sont hébergées dans un nuage. Heureusement, il existe un logiciel libre et gratuit cochant toutes les cases, c’est Mercator.
 
-## Step 2: Présentation de Mercator
-
-Le projet a été développé durant la période Covid, principalement pour pallier l’absence d’un outil open source mettant en œuvre les recommandations de l’ANSSI. Initialement adopté par plusieurs établissements hospitaliers en France pour satisfaire à l’exigence de disposer d’une cartographie de leur système d’information, nécessaire à la certification HDS (Hébergeur de Données de Santé), Mercator est désormais de plus en plus utilisé par des collectivités et des entreprises de taille moyenne. En juin 2024, le projet a reçu d’OW2 le prix du meilleur projet open source dans la catégorie « Communauté ». Mercator répond au besoin de disposer d’une vue d’ensemble du système d’information. 
-
-### installation 
-
-[GIT](https://github.com/pascalmerx2))
-PS !Si vous ne voulez pas installer manuellement Mercator sur votre serveur, une solution alternative vous est proposée sous la forme d’une image Docker. La commande suivante télécharge l’image et démarre une instance de Mercator :
-docker run -it --rm -e USE_DEMO_DATA=1 -p 8000:80 ghcr.io/dbarzin/mercator:latest
-Si vous avez une petite expérience de Docker, c’est la solution la plus rapide pour tester ou déployer Mercator.
-
-```
