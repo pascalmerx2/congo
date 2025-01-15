@@ -7,9 +7,8 @@ slug: "homepage-layout"
 tags: ["homepage", "layouts", "docs"]
 ---
 
-Atelier 1 : cadrage et socle de sécurité
 
-Rappels :
+Rappels concepts EBIOS :
     - Valeur métier (VM) : toute ressource qui a de la valeur pour l'organisme et qui est nécessaire à la réalisation de ses objectifs (données, processus, fonctions) 
     
     - Bien de support (BS) : composante du système d’information sur laquelle reposent une ou plusieurs valeurs métier. Un bien support peut être un logiciel, matériel, réseau, une personne, etc.
