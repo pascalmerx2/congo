@@ -15,7 +15,6 @@ Rappels :
     - Bien de support (BS) : composante du système d’information sur laquelle reposent une ou plusieurs valeurs métier. Un bien support peut être un logiciel, matériel, réseau, une personne, etc.
     
     - Événements redoutés (ER) : ils correspondent à une situation défavorable qui affecte une ou plusieurs valeurs métiers. Cela peut englober l'interruption d'un service, la divulgation non autorisée d'informations sensibles, ou des altérations indésirables dans une base de données 
-
     
     - Impact (IP) : sens juridique pour un PIA
 
