@@ -1,7 +1,7 @@
 ---
 title: "Obligations pour le RT "
 date: 2019-03-10
-description: "A brief description of Hugo Shortcodes"
+description: "accountability"
 summary: "This is an _example_ of a **rich** content summary."
 tags: ["shortcodes", "privacy", "sample", "gist", "twitter", "youtube", "vimeo"]
 ---
