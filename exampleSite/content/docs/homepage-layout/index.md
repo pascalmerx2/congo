@@ -30,6 +30,7 @@ tags: ["homepage", "layouts", "docs"]
 #### Exemle Evènement Redouté ?
        ex ER1 : Divulgation de données, perte de données
        ex ER2 : Altération de Données, perte de données
+       ex ER3 : accès non autorisé 
 
 #### Quel est le niveau de conformité du socle de sécurité ?
       - Pour un SI déjà en service et audit de sécurité a été réalisé, etat des mesures correctives identifiées (techniques/organisationnelles/physiques/juridiques) ?
