@@ -19,11 +19,11 @@ Rappels concepts:
 Quelles sont les parties prenantes (fournisseurs, clients, partenaires) dans notre écosystème et sont-elles menaçantes pour l’organisation ? 
 
 Question à se poser : quels sont les scénarios d'attaque envisageables ? 
-- Quels chemins peuvent être empruntés par les sources de risque ? Le cybercriminel attaque l'hébergeur pour obtenir les données personnelles et les dossiers de performance et de rémunération.
+    - Quels chemins peuvent être empruntés par les sources de risque ? Le cybercriminel attaque l'hébergeur pour obtenir les données personnelles et les dossiers de performance et de rémunération.
   
-- Le cybercriminel qui attaque en direct les systèmes pour obtenir les données personnelles et les dossiers de performances et rémunération
+    - Le cybercriminel qui attaque en direct les systèmes pour obtenir les données personnelles et les dossiers de performances et rémunération
   
-- Employé mal intentionné qui est déjà à l’intérieur de l’entreprise et qui attaque les données personnelles et les dossiers de performance et de rémunération. Employé mal intentionné qui passe par les postes des développeurs freelances et qui attaque les données personnelles et les dossiers de performance et rémunération.
+    - Employé mal intentionné qui est déjà à l’intérieur de l’entreprise et qui attaque les données personnelles et les dossiers de performance et de rémunération. Employé mal intentionné qui passe par les postes des développeurs freelances et qui attaque les données personnelles et les dossiers de performance et rémunération.
 
 
 
