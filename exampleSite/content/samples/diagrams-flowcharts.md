@@ -6,7 +6,7 @@ summary: "Gouvernance, protection, défense, résilience"
 
 ---
 
-Gouvernance
+### Gouvernance
 
     Cadre de maîtrise du risque (stratégie de sécurité, organisation de management du risque et d’amélioration continue, cartographie des systèmes et services, processus d’intégration de la sécurité dans les projets)
     Maîtrise de l’écosystème (clauses de sécurité dans les contrats de sous-traitances, sécurité des processus de développement et d’acquisition)
@@ -14,7 +14,7 @@ Gouvernance
     Evaluation et suivi du niveau de sécurité (audits et contrôles internes, indicateurs de pilotage de la performance numérique)
     Gestion du facteur humain (sensibilisations, entraînements)
 
-Protection
+### Protection
 
     Sécurité de l'architecture du SI (Configuration des systèmes, Cloisonnement, Accès distant, Filtrage, Gestion des entrées/sorties de données et des supports amovibles, Sécurité des passerelles d’interconnexion) 
     Protection  des  données  (intégrité,  confidentialité,  gestion  des  clés  cryptographiques)
@@ -28,13 +28,13 @@ Protection
     Gestion du facteur humain (sensibilisations, entraînements)
 
 
-Défense
+### Défense
 
     Capteurs (sondes, journalisation)
     Détection (classification, corrélation et analyse des journaux, stratégie de supervision) 
     Gestion des incidents (traitement des alertes, qualification, réponse aux incidents)
 
-Résilience
+### Résilience
 
     Continuité  d’activité  (sauvegarde  et  restauration,  gestion  des  modes  dégradés) ;
     Gestion de crise cyber (préparation, entrainement, dispositif de crise, plans, RETEX) ;
