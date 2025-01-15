@@ -1,6 +1,6 @@
 ---
 title: "Atelier-2 Sources de Risques"
-date: 2020-08-07
+date: 2025-01-14
 draft: true
 description: "Learn how to deploy a Congo site."
 slug: "hosting-deployment"
