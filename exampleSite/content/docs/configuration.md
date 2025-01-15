@@ -1,5 +1,5 @@
 ---
-title: Atelier 5 traitement du risque
+title: Atelier 5 Plan de traitement du Risque Privacy
 date: 2025-01-10
 draft: true
 description: "All the configuration variables available in Congo."
