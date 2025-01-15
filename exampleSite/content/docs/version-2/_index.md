@@ -11,7 +11,7 @@ Les systèmes d’information de nos organisations deviennent de plus en plus co
 ## Step 1: La méthodologie ANSSI
 
 {{< alert >}}
-Visit the [ANSSI DOC]([https://gohugo.io/getting-started/installing/](https://cyber.gouv.fr/publications/cartographie-du-systeme-dinformation))  
+Visit the [ANSSI DOC](https://cyber.gouv.fr/publications/cartographie-du-systeme-dinformation)
 {{< /alert >}}
 
 L’ANSSI diffuse sur son site un document décrivant la démarche de réalisation d’une cartographie de système d’information.Elle décrit les cinq étapes de la construction d’une cartographie qui sont l’initiation de la démarche de cartographie, le choix du modèle, la sélection de l’outillage qui doit être utilisé, la construction de la cartographie et enfin la pérennisation de la cartographie. Cette approche est basée sur deux notions essentielles qui sont l’usage de plusieurs dimensions désignées sous le terme de « vue » ainsi que sur la définition de trois niveaux de granularité.
