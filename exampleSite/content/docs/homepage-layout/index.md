@@ -25,7 +25,11 @@ tags: ["homepage", "layouts", "docs"]
      
      - Imaginez ce qui pourrait arriver aux personnes concernées, si au regard des donnnées traités, accès illégitime, altération des données, pertes et disparition ..
      
-     - Identifier les évènements redoutés pour les sous finalités en identifiant les évènements redoutés et leur niveau de gravité (catégories d'impact (juridique, réputation, financier, gravité et  commentaires)
+     - Identifier les évènements redoutés pour les sous finalités en identifiant les évènements redoutés et leur niveau de gravité et catégories d'impact (juridique, réputation, financier, gravité et  commentaires)
+
+#### Exemle Evènement Redouté ?
+       ex ER1 : Divulgation de données, perte de données
+       ex ER2 : Altération de Données, perte de données
 
 #### Quel est le niveau de conformité du socle de sécurité ?
       - Pour un SI déjà en service et audit de sécurité a été réalisé, etat des mesures correctives identifiées (techniques/organisationnelles/physiques/juridiques) ?
