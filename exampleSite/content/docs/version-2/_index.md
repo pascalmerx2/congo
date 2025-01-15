@@ -1,5 +1,5 @@
 ---
-title: "etat des lieux SI"
+title: "Etat des lieux SI"
 date: 2024-01-10
 draft: true
 description: "principe ."
