@@ -23,8 +23,7 @@ Les réponses aux audits dans le cadre des contrôles doivent être accompagnée
     La sécurité des données et des traitements ;
     L’évolution et le contrôle de la politique...
 
-#### Les indicateurs pour mesurer l’atteinte des objectifs 
-:
+#### Les indicateurs pour mesurer l’atteinte des objectifs
 
     Le nombre de directions métiers ayant classifié les données à caractère personnel et les traitements associés ;
     Le nombre de traitements entièrement référencés dans le registre ;
