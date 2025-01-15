@@ -7,11 +7,16 @@ slug: "hosting-deployment"
 tags: ["hosting", "deployment", "docs", "github", "netlify", "render"]
 ---
 
-Rappels : Source de risque (SR): élément, personne, groupe de personnes ou organisation susceptible d’engendrer un risque. Exemple : services étatiques, hacktivistes, concurrents, employés vengeurs ; Objectif visé (OV) : finalité visée par une source de risque, selon ses motivations. Exemple : voler des informations à des fins lucratives ou d’espionnage industriel, diffuser un message idéologique, se venger d’un organisme, générer une crise sanitaire ; Motivation : motivation de la source de risque à atteindre son objectif ; Ressources : ressources financières, compétences, infrastructures d’attaque.
+#### Rappels concepts : 
+    Source de risque (SR): élément, personne, groupe de personnes ou organisation susceptible d’engendrer un risque. Exemple : services étatiques, hacktivistes, concurrents, employés vengeurs 
+    Objectif visé (OV) : finalité visée par une source de risque, selon ses motivations. Exemple : voler des informations à des fins lucratives ou d’espionnage industriel, diffuser un message idéologique, se venger d’un organisme, générer une crise sanitaire 
+    Motivation : motivation de la source de risque à atteindre son objectif (échelle 1 à 3) 
+    Ressources : ressources financières, compétences, infrastructures d’attaque (échelle 1 à 3)
 
-Question à se poser : quels sont les sources de risques et leurs objectifs visés ? Quel est le niveau de pertinence pour chaque groupe SR/OV ?
-    - Cybercriminels, hackers : valeur métier "données personnelles"
+#### quels sont les sources de risques et leurs objectifs visés ? 
+    Cybercriminels, hackers : objectif visé  "Lucratif, espionnage"
+    Employés malintentionnés : objectif visé  "Sabotage"
+ 
     
-    - Employés malintentionnés : valeur métier "données personnelles"
-
-Commentaire : Il est noté que le cybercriminel serait potentiellement plus intéressé par la valeur métier « Données personnelles » alors que « l’employé malintentionné » sur l’ensemble des valeurs métiers (« Données personnelles » et « Dossiers de performance et rémunération ») pour du sabotage.
+#### Quel est le niveau de pertinence pour chaque groupe SR/OV ?
+     Il est noté que le cybercriminel serait potentiellement plus intéressé par la valeur métier « Données personnelles » alors que « l’employé malintentionné » sur l’ensemble des valeurs métiers (« Données personnelles » et « Dossiers de performance et rémunération ») pour du sabotage.
