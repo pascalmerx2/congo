@@ -5,9 +5,9 @@ description: PIA.
 tags: ["sample", "katex", "maths", "shortcodes"]
 ---
 
-Une analyse de risques Privacy (PIA) ou analyse d’impact relative à la protection des données (AIPD), en application de l’article 35 du RGPD, porte sur le traitement des données à caractère personnel, et sera évaluée sur la base de principes fondamentaux (finalité déterminée, données minimisées, information des personnes, leur permettre l’exercice de leurs droits, etc.), pour identifier les impacts potentiels sur les personnes concernées et estimer leur gravité
+#### Une analyse de risques Privacy (PIA) ou analyse d’impact relative à la protection des données (AIPD) et en application de l’article 35 du RGPD, porte sur le traitement des données à caractère personnel, et sera évaluée sur la base de principes fondamentaux (finalité déterminée, données minimisées, information des personnes, leur permettre l’exercice de leurs droits, etc.), pour identifier les impacts potentiels sur les personnes concernées et estimer leur gravité
 
-Qu’est-ce qu’un risque sur la vie privée ?
+#### Qu’est-ce qu’un risque sur la vie privée ?
 
 Un risque est un scénario hypothétique qui décrit un événement redouté et toutes les menaces qui permettraient qu'il survienne.
 
