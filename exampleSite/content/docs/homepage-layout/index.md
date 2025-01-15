@@ -2,7 +2,7 @@
 title: "Atelier-1 socle de sécurité"
 date: 2025-01-15
 draft: false
-description: "etude de cas"
+description: "etude de cas privacy"
 slug: "homepage-layout"
 tags: ["homepage", "layouts", "docs"]
 ---
@@ -18,11 +18,14 @@ Rappels concepts EBIOS :
     - Impact (IP) : sens juridique pour un PIA
 
 Question à se poser : quels sont les scénarios que l’association redoute (événements redoutés) ?
-    - VM : Données personnelles
+    - VM : ex "Données personnelles manipulées dans le SI"
     - ER : Divulgation de données, perte de données
     - IP : Juridique, réputation, financier
 
-Question à se poser : quel est l’existant en matière de sécurité de l’information (socle de sécurité) ?
-     - Un DPD (Délégué à la Protection des Données) est nommé dans l’entreprise, il travaille sur le sujet. Nous aurons besoin de son retour
-
-
+Question : quel est l’existant en matière de sécurité de l’information (socle de sécurité) ?
+     - Identifier au titre d'une finalité les traitements "susceptibles d'engendrer un risque élevé sur les droits et personnes physiques" source Registre tenu à jour par Délégué à la Protection des Données
+     
+     - Question à se poser : qu’est-ce que l’organisation veut protéger (processus, données, fonctions) ?
+     
+     - Identifier les évènements redoutés pour les sous finalités en identifiant les évènements redoutés,les catégories d'impact, la gravité et les commentaires
+     
