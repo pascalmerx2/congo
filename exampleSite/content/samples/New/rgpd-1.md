@@ -9,7 +9,7 @@ showDateUpdated: true
 
 ISO 27001 est une norme internationale qui définit les exigences pour la mise en place, l'implantation, le maintien et l'amélioration permanente d'un Système de Management de la Sécurité de l'Information (SMSI). Elle vise à aider les entreprises à protéger les informations sensibles et à prévenir les fuites de données. Pour être certifiée ISO 27001, une organisation doit démontrer qu'elle a mis en place un SMSI efficace et qu'elle respecte les exigences de la norme.
 
-### La cartographie du système d'information est un outil clé pour y parvenir. En effet, la cartographie permet de répondre aux recommandations de la norme ISO 27001 suivantes :
+#### La cartographie du système d'information est un outil clé pour y parvenir. En effet, la cartographie permet de répondre aux recommandations de la norme ISO 27001 suivantes :
 
     Inventaire des informations et des autres actifs associés (A.5.09) ;
     
@@ -25,7 +25,7 @@ ISO 27001 est une norme internationale qui définit les exigences pour la mise e
     
     La gestion des changements (A.8.32).
 
-### En ce qui concerne le RGPD, la cartographie d’un système d’information joue un rôle crucial dans la protection des données à caractère personnel au sein d’une organisation. Ces dernières sont l’ensemble des données permettant l’identification directe ou indirecte d’une personne physique.
+#### En ce qui concerne le RGPD, la cartographie d’un système d’information joue un rôle crucial dans la protection des données à caractère personnel au sein d’une organisation. Ces dernières sont l’ensemble des données permettant l’identification directe ou indirecte d’une personne physique.
 
     En cartographiant les éléments du système et leurs relations, il est plus facile de repérer les points de passage des données à caractère personnel. Ces points critiques peuvent inclure des serveurs, des bases de données, des traitements ou encore des interfaces. Il est possible de déterminer où les données sont manipulées et de les associer aux processus de l’organisation. Une fois identifiés, des mesures de protection telles que le chiffrement, l’anonymisation, la pseudonymisation ou les autorisations d’accès peuvent être adoptées ou renforcées.
 
