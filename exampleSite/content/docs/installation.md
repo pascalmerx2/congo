@@ -8,13 +8,13 @@ tags: ["installation", "docs"]
 ---
 
 Rappels concepts: 
-  - Partie prenante : élément (personne, système d’information, organisation) en interaction directe ou indirecte avec l’objet de l’étude. Exemple : partenaire, prestataire, client, fournisseur, etc. Écosystème : ensemble des parties prenantes en interaction avec l’objet de l’étude
+    - Partie prenante : élément (personne, système d’information, organisation) en interaction directe ou indirecte avec l’objet de l’étude. Exemple : partenaire, prestataire, client, fournisseur, etc. Écosystème : ensemble des parties prenantes en interaction avec l’objet de l’étude
 
-  - Scénario stratégique : ensemble de chemins d'attaque possibles qu'une source de risque pourrait suivre pour atteindre un objectif. Ce chemin peut impliquer des interactions avec les parties prenantes au sein de l'écosystème, ou peut directement cibler les valeurs métier
+    - Scénario stratégique : ensemble de chemins d'attaque possibles qu'une source de risque pourrait suivre pour atteindre un objectif. Ce chemin peut impliquer des interactions avec les parties prenantes au sein de l'écosystème, ou peut directement cibler les valeurs métier
 
-  - Dépendance : le niveau de dépendance représente l'importance vitale de la relation avec une partie prenante pour le succès de l'activité
+    - Dépendance : le niveau de dépendance représente l'importance vitale de la relation avec une partie prenante pour le succès de l'activité
 
-  - Pénétration : le niveau de pénétration indique la mesure dans laquelle une partie prenante a accès aux ressources internes de l'organisation ; Maturité cyber : le niveau de maturité cyber évalue les capacités de la partie prenante en matière de sécurité des systèmes d'information ; Confiance : le niveau de confiance mesure à quel point les intentions ou les intérêts de la partie prenante sont alignés ou contraires aux objectifs de l'organisation.
+    - Pénétration : le niveau de pénétration indique la mesure dans laquelle une partie prenante a accès aux ressources internes de l'organisation ; Maturité cyber : le niveau de maturité cyber évalue les capacités de la partie prenante en matière de sécurité des systèmes d'information ; Confiance : le niveau de confiance mesure à quel point les intentions ou les intérêts de la partie prenante sont alignés ou contraires aux objectifs de l'organisation.
 
 Quelles sont les parties prenantes (fournisseurs, clients, partenaires) dans notre écosystème et sont-elles menaçantes pour l’organisation ? 
 
