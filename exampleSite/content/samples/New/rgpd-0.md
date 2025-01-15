@@ -62,16 +62,21 @@ Il s'agit de référencer les informations essentielles telles que le nom du tra
 
 ### Mesures de sécurité techniques et organisationnelles
 
+#### mesures organisationnelles
+     Sur le plan organisationnel, le RGPD renforce l’importance de la réalisation d’une cartographie des traitements. Celle-ci permet à une organisation de recenser l’ensemble des traitements existants et de détecter ainsi ceux comportant des données à caractère personnel. Voir article "état des lieux"
+
 #### sécurisation logique et physique du système d’information de l’organisation. 
      Ces documents décrivent la sécurisation des postes de travail (authentification, antivirus, chiffrement du stockage, etc.), des serveurs (authentification, mises à jour, sauvegardes, etc.) et de l’infrastructure réseau. Ils présentent les mesures prises pour la sécurisation des locaux (contrôle d’accès, surveillance, gestion des pannes électriques ou des incendies, etc.). Ils exposent les mesures de traçabilité (journaux systèmes, etc.).  
      
 #### Cette documentation est généralement complétée par un PRA (Plan de Reprise d’Activité) donnant la marche à suivre en cas d’incident grave
-
+     La « notification en cas de fuite, vol ou violation de données » : le détenteur de données personnelles doit avertir, « dès que possible » et dans un délai maximal de 72 heures, l’autorité nationale de protection (la CNIL, en France). La mesure ne s’applique pas s’il est établi que les données sont chiffrées, réputées inviolables, et elle est assortie d’exception pour les organisations de moins de 250 salariés.
 
 ### La protection des données « dès la conception » (‘privacy by design’) :
 
+     Il s'agit d'appliquer le principe de Privacy By Design pour garantir l’intégrité, la confidentialité et la disponibilité des données dans le cadre de la collecte et de la manipulation de données à caractère personnel. 
+     Les mesures prises doivent être adaptées à la nature des données et aux risques présentés par le traitement. exemple du chiffrement des données pour limiter les risques liés au vol ou à la perte d’une machine, serveur, base de donnée. Au niveau de la sécurité logique, les protocoles réseau utilisés doivent être sécurisés à l’aide de méthodes de chiffrement. Dans le domaine des applications web, il est requis d’utiliser le protocole HTTPS pour assurer les échanges de données entre le poste client et le serveur. L’accès aux données dans les applications doit être géré à l’aide d’un mécanisme d’authentification basé sur des mots de passe robustes et une gestion des droits des utilisateurs afin de garantir que les informations ne sont accessibles qu’aux personnes autorisées.
     Le responsable de traitement doit prendre des mesures préventives de protection des données personnelles dès la conception des produits, services ou systèmes qui doivent donc être sécurisés.
 
-    La « notification en cas de fuite, vol ou violation de données » : le détenteur de données personnelles doit avertir, « dès que possible » et dans un délai maximal de 72 heures, l’autorité nationale de protection (la CNIL, en France). La mesure ne s’applique pas s’il est établi que les données sont chiffrées, réputées inviolables, et elle est assortie d’exception pour les organisations de moins de 250 salariés.
+ 
 
 
