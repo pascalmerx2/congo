@@ -70,24 +70,24 @@ Organiser les processus internes
 Documenter la conformité
   
 
-## La documentation sur le traitement des DCP :
+# La documentation sur le traitement des DCP :
 
     Le registre des traitements.
     Les analyses d’impact.
     L’entreprise doit conserver les preuves de la conformité des traitements des DCP.
     Encadrement des transferts de données hors de l’UE.
 
-## L’information des personnes :
+#  L’information des personnes :
 
     Les mentions d’informations.
     Les preuves du recueil du consentement des DCP.
 
-## Les contrats qui définissent les rôles et les responsabilités des acteurs :
+# Les contrats qui définissent les rôles et les responsabilités des acteurs :
 
     Les contrats avec les sous-traitants.
     Les procédures internes en cas de violation de données.
 
-## Droits des personnes
+#  Droits des personnes
      « Consentement explicite et positif » des intéressés : l’accord doit être obtenu de façon claire et non par défaut, par les entreprises ou organisations exploitant de telles données.
 
      Le « Droit à l’effacement » : il remplace le « droit à l’oubli » et peut être invoqué pour 6 motifs. La purge des fichiers doit être exécutée « dans les meilleurs délais ».
@@ -96,7 +96,7 @@ Documenter la conformité
 
      Le « Profilage » : toute personne peut refuser de faire l’objet d’une décision fondée sur un traitement automatisé, y compris le « profilage », ayant des effets juridiques ou l’affectant de fait.
 
-## La protection des données « dès la conception » (‘privacy by design’) et un « dispositif de « sécurité par défaut » :
+# La protection des données « dès la conception » (‘privacy by design’) et un « dispositif de « sécurité par défaut » :
 
     Le responsable de traitement doit prendre des mesures préventives de protection des données personnelles dès la conception des produits, services ou systèmes qui doivent donc être sécurisés.
 
