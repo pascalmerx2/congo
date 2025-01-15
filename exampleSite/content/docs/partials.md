@@ -20,7 +20,9 @@ tags: ["partials", "analytics", "privacy", "comments", "favicons", "icon", "docs
    
 #### Déterminer les mesures agissant sur ces scénarios opérationnels ?
      Controles d'accès traçés
+     
      Gestion des habilitations renforce
+    
      Cloisonnement réseau 
 
 
