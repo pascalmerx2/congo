@@ -12,11 +12,17 @@ ISO 27001 est une norme internationale qui définit les exigences pour la mise e
 ### La cartographie du système d'information est un outil clé pour y parvenir. En effet, la cartographie permet de répondre aux recommandations de la norme ISO 27001 suivantes :
 
     Inventaire des informations et des autres actifs associés (A.5.09) ;
+    
     Classification de l'information (A.5.12) ;
+    
     La politique de sécurité de l’information dans les relations avec les fournisseurs (A.5.19) ;
+    
     Réponse aux incidents liés à la sécurité de l'information (A.5.26) ;
+    
     L’emplacement et la protection des matériels (A.7.08) ;
+    
     La gestion des vulnérabilités techniques (A.8.08) ;
+    
     La gestion des changements (A.8.32).
 
 ### En ce qui concerne le RGPD, la cartographie d’un système d’information joue un rôle crucial dans la protection des données à caractère personnel au sein d’une organisation. Ces dernières sont l’ensemble des données permettant l’identification directe ou indirecte d’une personne physique.
