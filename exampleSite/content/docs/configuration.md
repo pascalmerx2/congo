@@ -1,6 +1,6 @@
 ---
 title: Atelier 5 traitement du risque
-date: 2014-08-14
+date: 2025-01-10
 draft: true
 description: "All the configuration variables available in Congo."
 slug: "configuration"
