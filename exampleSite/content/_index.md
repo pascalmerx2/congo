@@ -1,5 +1,5 @@
 ---
-title: "Vous êtes sensibles aux questions posées par la réglementation des données personnelles (RGPD) ou la CYBERCRIMINALITE"
+title: "Vous êtes sensibles aux questions posées par la réglementation des données personnelles et/ou la CYBERCRIMINALITE"
 description: "page accueil."
 ---
 
