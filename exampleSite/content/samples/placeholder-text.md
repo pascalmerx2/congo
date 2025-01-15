@@ -15,17 +15,17 @@ xml: false
 
 #### Les objectifs de protection de la vie privée définis dans la politique de protection de la vie privée concernent notamment 
 
-   - La classification exhaustive des données à caractère personnel ;
-   - L’obligation de formalisation des registres des traitements, des demandes d’exercices de droit des personnes concernées et de notifications de violations de données à caractère personnel ;
-   - L’effectivité des droits des personnes concernées ;
-   - Le renforcement de la culture « protection de la vie privée » ;
-   - La définition des prérogatives pour engager contractuellement le sous-traitant ;
-   - La sécurité des données et des traitements ;
-   - L’évolution et le contrôle de la politique...
+    La classification exhaustive des données à caractère personnel ;
+    L’obligation de formalisation des registres des traitements, des demandes d’exercices de droit des personnes concernées et de notifications de violations de données à caractère personnel ;
+    L’effectivité des droits des personnes concernées ;
+    Le renforcement de la culture « protection de la vie privée » ;
+    La définition des prérogatives pour engager contractuellement le sous-traitant ;
+    La sécurité des données et des traitements ;
+    L’évolution et le contrôle de la politique...
 
-### Le niveau d’atteinte de chaque objectif n’est pas directement mesurable, aussi le DPD dans la politique de protection de la vie privée devra définir des sous-objectifs mesurables. Les résultats des contrôles pourront ainsi permettre de mesurer la conformité, mais aussi le niveau d’efficacité pour atteindre l’objectif.
+#### Le niveau d’atteinte de chaque objectif n’est pas directement mesurable, aussi le DPD dans la politique de protection de la vie privée devra définir des sous-objectifs mesurables. Les résultats des contrôles pourront ainsi permettre de mesurer la conformité, mais aussi le niveau d’efficacité pour atteindre l’objectif.
 
-### Les indicateurs utilisés pour mesurer l’atteinte des objectifs et des sous-objectifs mesurables sont classiquement :
+#### Les indicateurs utilisés pour mesurer l’atteinte des objectifs et des sous-objectifs mesurables sont classiquement :
 
     Le nombre de directions métiers ayant classifié les données à caractère personnel et les traitements associés ;
     Le nombre de traitements entièrement référencés dans le registre ;
