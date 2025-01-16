@@ -1,6 +1,6 @@
 ---
-title: "Etat des lieux SI"
-date: 2024-01-10
+title: "Atelier-0 Etat des lieux SI"
+date: 2025-01-16
 draft: true
 description: "principe ."
 tags: ["new", "docs"]
