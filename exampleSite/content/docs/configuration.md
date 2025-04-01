@@ -1,5 +1,5 @@
 ---
-title: Atelier-5 Plan de traitement du Risque Privacy
+title: Atelier-15 Plan de traitement du Risque Privacy
 date: 2015-01-10
 draft: false
 description: "All the configuration variables available in Congo."
