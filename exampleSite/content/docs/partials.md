@@ -1,6 +1,6 @@
 ---
-title: Atelier-4 Scénarios opérationnels
-date: 2025-01-12
+title: Atelier-14 Scénarios opérationnels
+date: 2015-01-12
 draft: false
 description: "All the partials available in Congo."
 slug: "partials"
