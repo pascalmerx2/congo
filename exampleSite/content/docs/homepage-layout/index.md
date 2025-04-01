@@ -1,6 +1,6 @@
 ---
-title: "Atelier-1 socle de sécurité"
-date: 2025-01-15
+title: "Atelier-11 socle de sécurité"
+date: 2015-01-15
 draft: false
 description: "etude de cas privacy"
 slug: "homepage-layout"
