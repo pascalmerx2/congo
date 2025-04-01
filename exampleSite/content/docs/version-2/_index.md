@@ -1,6 +1,6 @@
 ---
 title: "Atelier-0 Etat des lieux SI"
-date: 2025-01-16
+date: 2025-03-01
 draft: false
 description: "principe ."
 tags: ["new", "docs"]
