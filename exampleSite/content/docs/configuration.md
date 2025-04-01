@@ -1,6 +1,6 @@
 ---
 title: Atelier-5 Plan de traitement du Risque Privacy
-date: 2025-01-10
+date: 2015-01-10
 draft: false
 description: "All the configuration variables available in Congo."
 slug: "configuration"
