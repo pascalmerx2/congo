@@ -1,6 +1,6 @@
 ---
-title: Atelier-3 scénarios stratégiques
-date: 2025-01-13
+title: Atelier-13 scénarios stratégiques
+date: 2015-01-13
 draft: false
 description: "How to install the Congo theme."
 slug: "installation"
