@@ -1,6 +1,6 @@
 ---
 title: "Atelier 0.1 checklist"
-date: 2025-03-02
+date: 2025-02-01
 draft: false
 description: "Learn how to build Congo manually."
 summary: "Congo supports advanced customisations that include modifying the underlying Tailwind configuration, building the theme manually and providing custom CSS."
