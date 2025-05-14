@@ -1,6 +1,6 @@
 ---
 title: "RGPD & norme ISO"
-date: 2025-03-02
+date: 2024-03-02
 lastmod: 2025-01-10
 draft: true
 description: "interet carto"
