@@ -1,6 +1,6 @@
 ---
 title: "Conformité RGPD"
-date: 2025-01-10
+date: 2025-01-01
 description: "Guide méthodologie plan d'action mise en conformité RGPD"
 summary: "fiches PA"
 tags: ["rgpd", "sample"]
