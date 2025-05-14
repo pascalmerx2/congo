@@ -1,11 +1,10 @@
 ---
 title: "Conformité RGPD"
-date: 2025-01-01
+date: 2025-05-01
 description: "Guide méthodologie plan d'action mise en conformité RGPD"
 summary: "fiches PA"
 tags: ["rgpd", "sample"]
 ---
-
 ###  Objectifs
 - Comprendre les exigences du cadre règlementaire de la protection des données personnelles
 - Identifier des actions à mettre en place pour se conformer aux exigences du RGPD
