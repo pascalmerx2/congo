@@ -3,7 +3,6 @@ title: "Atelier 0.1 checklist"
 date: 2025-03-02
 draft: false
 slug: "advanced-customisation"
-tags: ["new", "docs"]
 ---
 ## Step 1: Authentifier les utilisateurs
 Définir un identifiant unique à chaque utilisateur.
