@@ -1,6 +1,6 @@
 ---
 title: "RGPD-lexique"
-date: 2025-01-10
+date: 2025-03-01
 lastmod: 2025-01-10
 draft: true
 description: "ggggg."
