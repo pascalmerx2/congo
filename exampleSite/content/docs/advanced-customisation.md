@@ -2,6 +2,10 @@
 title: "Atelier 0.1 checklist"
 date: 2025-03-02
 draft: false
+description: "Learn how to build Congo manually."
+summary: "Congo supports advanced customisations that include modifying the underlying Tailwind configuration, building the theme manually and providing custom CSS."
+slug: "advanced-customisation"
+tags: ["advanced", "css", "docs"]
 ---
 ## Step 1: Authentifier les utilisateurs
 Définir un identifiant unique à chaque utilisateur.
