@@ -1,31 +1,27 @@
 ---
-title: "Conformité RGPD"
+title: "RGPD/GDPR : Risques et conformité "
 date: 2025-05-01
 description: "Guide méthodologie plan d'action mise en conformité RGPD"
-summary: "fiches PA"
+summary: "les étapes indispensables pour conformité réglementaire "
 tags: ["rgpd", "sample"]
 ---
 ###  Objectifs
 - Comprendre les exigences du cadre règlementaire de la protection des données personnelles
 - Identifier des actions à mettre en place pour se conformer aux exigences du RGPD
 
-### Programme 
+### Etapes clés
 
-#### Les données personnelles
-- Enjeux autour de la collecte de données
-- Les données personnelles
-- Le cadre règlementaire
-- Garants de la protection des données personnelles
+#### Collecte et protection des données personnelles
+- Enjeux autour de la collecte de données personnelles et du processus de référencement des traitements
+- Le cadre règlementaire (droits, obligations) transposé dans la législation en France sous la forme de la loi Informatique et Liberté
+- Qui sont les garants de la protection des données personnelles
 
-#### L’application du RGPD dans l’association
-- L’association et le RGPD
-- La mise en conformité
-- Désignez un pilote de la mise en conformité de l’association au RGPD
-- Le registre des activités de traitement
-- Effectuer un état des lieux
+#### Référencement et cartographie des traitements
+- Etat des lieux organisationnel
+- Référencement et documentation des traitements (registre) 
+- Cartographie du système d’information 
 
-#### La sécurité des données
-- Incidents
-- Mesures de conservation des DP
-- Risques pesant sur la sécurité des DP
-- Mesures organisationnelles et techniques de sécurité
+#### La sécurité technique des données (basiques)
+- Renforcement de la sécurité sur les postes de travail, dans les infrastructures systèmes et réseaux de l’organisation ainsi que dans la gestion de l’accès aux locaux.
+- Contrôler les flux entrants et sortants,
+- Plan de sauvegarde adéquat et politique d’archivage qui tiennent compte des durées de conservation autorisées pour les données à caractère personnelle (DCP)
