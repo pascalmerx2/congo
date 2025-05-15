@@ -1,11 +1,12 @@
 ---
-title: "Atelier 0.3 Revue documentaire technique"
-date: 2025-01-15
+title: "Atelier 0.3 Revue documentaire technique (sous traitant)"
+date: 2025-01-29
 draft: true
 description: "All the partials available in Congo."
 slug: "content-examples"
 tags: ["content", "example"]
 ---
+
 
 ## A1: Politiques de gestion des accès
 - Consulter le document officiel signé
