@@ -1,5 +1,5 @@
 ---
-title: Introduction Analye d'impact Privacy (PIA)
+title: RGPD/GDPR- Analye d'impact Privacy (PIA)
 date: 2025-01-09
 description: PIA.
 tags: ["sample", "katex", "maths", "shortcodes"]
