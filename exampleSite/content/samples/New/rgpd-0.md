@@ -1,20 +1,14 @@
 ---
-title: "RGPD-lexique"
-date: 2024-03-01
-lastmod: 2025-01-10
+title: "RGPD/GDPR-Principes juridiques et techniques"
+date: 2024-04-01
+lastmod: 2025-04-01
 draft: true
-description: "ggggg."
+description: "legislation"
 tags: ["rgpd", "sample"]
 showDateUpdated: true
 ---
 
-## Lexique et langage RGPD
-- RGPD : Règlement Général sur la Protection des Données. Le règlement Européen relatif à la protection des données est entré en vigueur le 25 mai 2018.
-- DCP : Données à Caractères Personnelles. Toute information se rapportant à une personne physique identifiée ou identifiable (ci-après dénommée «personne concernée»). Est réputée être une «personne physique identifiable» une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu’un nom, un numéro d’identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale.
-- RT : Responsable de traitement. C’est la personne qui va porter la responsabilité légale du traitement = un dirigeant. Le responsable du traitement définit la manière dont les données personnelles sont traitées et à quelles fins. Il est également responsable de s’assurer que les sous-traitants de l’entreprise respectent le RGPD.
-- DPO : Délégué à la Protection des Données = le chef d’orchestre. Son rôle est d’informer et conseiller le Responsable de traitement, contrôler le respect du règlement, conseiller l’organisme, coopérer avec l’autorité de contrôle (CNIL).
-
-## Identifier les actions prioritaires
+## Identifier les actions prioritaires sur le plan juridique
 - Le principe de minimisation (Les données traitées doivent aussi être adéquates, pertinentes et limitées à ce qui est nécessaire, au regard des finalités pour lesquelles elles sont traitées).
 - Le principe de licéité (Les données doivent être traitées de manière loyale, licite et transparente).
 - L’obligation de mentions d’information.
@@ -22,28 +16,19 @@ showDateUpdated: true
 - Les droits des personnes.
 - Les mesures de sécurité mises en place.
  
-## Organiser les processus internes
-- Prendre en compte la protection des DCP dès la conception d’une application ou d’un traitement.
-- Sensibiliser les collaborateurs du cabinet aux problématiques de protection des DCP.
-- Traiter les réclamations et demandes des personnes quant à l’exercice de leurs droits.
-- Notifier à l’autorité de contrôle et communiquer aux personnes concernées la violation de données personnelles.
- 
 ## Documenter la conformité
 Ces documents portent notamment sur la conformité des données à caractère personnel (registre des traitements maintenu et à jour, analyses d'impacts, procédures et notifications, actions de formation et sensibilisation , la sécurité du systeme d'information (cartographie et état des lieux SI, gestion des accès, mécanismes de purge et sauvegarde, durée de conservation..) , pseudonymisation..)
 
-### La documentation sur le traitement des DCP :
-Il s'agit de référencer les informations essentielles telles que le nom du traitement, sa finalité, les interlocuteurs, les catégories de données traitées, les données à risques, les destinataires des données, les flux et transferts de données, les sous-traitants, l’hébergement des données ou encore l’application d’une politique d’archivage. Ce tableau est sommaire, mais il constitue une synthèse pour détecter les traitements à risques (manipulation de données à caractère personnel), compléter une fiche de registre et constituer le registre des traitements.
-    Le registre des traitements.
-    Les analyses d’impact.
-    L’entreprise doit conserver les preuves de la conformité des traitements des DCP.
-    Encadrement des transferts de données hors de l’UE.
+### La documentation des données à caractères personnelles (DCP):
+Il s'agit de référencer les informations essentielles telles que le nom du traitement, sa finalité, les interlocuteurs, les catégories de données traitées, les données à risques, les destinataires des données, les flux et transferts de données, les sous-traitants, l’hébergement des données ou encore l’application d’une politique d’archivage. 
+Le registre des traitements est obligatoire et constitue une synthèse pour détecter les traitements à risques (manipulation de données à caractère personnel)
 
 ###  L’information des personnes :
 - Les mentions d’informations.
-- Les preuves du recueil du consentement des DCP.
+- Les preuves du recueil du consentement 
 
 ### Les contrats qui définissent les rôles et les responsabilités des acteurs :
-- Les contrats avec les sous-traitants.
+- Les contrats avec les sous-traitants
 - Les procédures internes en cas de violation de données.
 
 ###  Droits des personnes
@@ -68,6 +53,10 @@ Il s'agit de référencer les informations essentielles telles que le nom du tra
 - Les mesures prises doivent être adaptées à la nature des données et aux risques présentés par le traitement. exemple du chiffrement des données pour limiter les risques liés au vol ou à la perte d’une machine, serveur, base de donnée. Au niveau de la sécurité logique, les protocoles réseau utilisés doivent être sécurisés à l’aide de méthodes de chiffrement. Dans le domaine des applications web, il est requis d’utiliser le protocole HTTPS pour assurer les échanges de données entre le poste client et le serveur. L’accès aux données dans les applications doit être géré à l’aide d’un mécanisme d’authentification basé sur des mots de passe robustes et une gestion des droits des utilisateurs afin de garantir que les informations ne sont accessibles qu’aux personnes autorisées.
 - Le responsable de traitement doit prendre des mesures préventives de protection des données personnelles dès la conception des produits, services ou systèmes qui doivent donc être sécurisés.
 
- 
+ ## Lexique
+- RGPD : Règlement Général sur la Protection des Données. Le règlement Européen relatif à la protection des données est entré en vigueur le 25 mai 2018.
+- DCP : Données à Caractères Personnelles. Toute information se rapportant à une personne physique identifiée ou identifiable (ci-après dénommée «personne concernée»). Est réputée être une «personne physique identifiable» une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu’un nom, un numéro d’identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale.
+- RT : Responsable de traitement. C’est la personne qui va porter la responsabilité légale du traitement = un dirigeant. Le responsable du traitement définit la manière dont les données personnelles sont traitées et à quelles fins. Il est également responsable de s’assurer que les sous-traitants de l’entreprise respectent le RGPD.
+- DPO : Délégué à la Protection des Données = le chef d’orchestre. Son rôle est d’informer et conseiller le Responsable de traitement, contrôler le respect du règlement, conseiller l’organisme, coopérer avec l’autorité de contrôle (CNIL).
 
 
