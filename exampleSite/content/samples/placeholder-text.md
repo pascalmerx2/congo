@@ -1,6 +1,6 @@
 ---
-title: "Pilotage RGPD"
-date: "2019-03-09"
+title: "Pilotage RGPD au sens technique"
+date: "2020-03-09"
 lastmod: "2022-01-24"
 draft: true
 description: "Lorem Ipsum Dolor Si Amet"
