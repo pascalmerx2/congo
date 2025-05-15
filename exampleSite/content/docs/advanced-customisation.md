@@ -1,5 +1,5 @@
 ---
-title: "Atelier 0.1 checklist"
+title: "Atelier 0.2 checklist"
 date: 2025-02-01
 draft: false
 description: "Learn how to build Congo manually."
