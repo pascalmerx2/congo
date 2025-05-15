@@ -1,6 +1,6 @@
 ---
-title: "Structurer ses mesures de sécurité"
-date: 2025-01-09
+title: "Structurer les mesures techniques de sécurité"
+date: 2020-04-09
 description: "Guide ANSSI"
 summary: "Gouvernance, protection, défense, résilience"
 ---
