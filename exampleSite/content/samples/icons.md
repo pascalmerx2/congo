@@ -1,6 +1,6 @@
 ---
 title: "Mesures techniques"
-date: 2025-01-02
+date: 2024-01-02
 lastmod: 2025-01-10
 draft: true
 description: "Icon support in Congo."
