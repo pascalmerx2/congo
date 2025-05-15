@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
- "Privacy is not a luxury, it's a fundamental human right.":heart_eyes:
+ "Privacy is not a luxury, it's a fundamental human right"
 {{< /lead >}}
 
 
