@@ -1,7 +1,7 @@
 ---
 title: "Atelier 0.3 Revue documentaire technique"
 date: 2025-01-15
-draft: false
+draft: true
 description: "All the partials available in Congo."
 slug: "content-examples"
 tags: ["content", "example"]
@@ -9,7 +9,7 @@ tags: ["content", "example"]
 
 ## A1: Politiques de gestion des accès
 - Consulter le document officiel signé
-- 
+  
 ## A2: Fiches d’habilitation nominatives
 - Vérifier un échantillon d’habilitations
 
