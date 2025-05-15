@@ -1,6 +1,6 @@
 ---
 title: "Atelier 0.1 Les questions minimales à se poser"
-date: 2025-01-15
+date: 2025-02-15
 draft: false
 description: "All the front matter variables available in Congo."
 slug: "front-matter"
