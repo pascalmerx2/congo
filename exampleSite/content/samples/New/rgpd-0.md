@@ -1,6 +1,6 @@
 ---
-title: "RGPD/GDPR-Principes juridiques et techniques"
-date: 2024-04-01
+title: "G02 Principes juridiques et techniques"
+date: 2025-04-01
 lastmod: 2025-04-01
 draft: true
 description: "legislation"
