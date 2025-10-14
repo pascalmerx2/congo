@@ -8,6 +8,8 @@ tags: ["rgpd", "sample"]
 showDateUpdated: true
 ---
 
+Notions de bases juridiques à connaître
+
 ## Identifier les actions prioritaires sur le plan juridique
 - Le principe de minimisation (Les données traitées doivent aussi être adéquates, pertinentes et limitées à ce qui est nécessaire, au regard des finalités pour lesquelles elles sont traitées).
 - Le principe de licéité (Les données doivent être traitées de manière loyale, licite et transparente).
@@ -19,7 +21,7 @@ showDateUpdated: true
 ## Documenter la conformité
 Ces documents portent notamment sur la conformité des données à caractère personnel (registre des traitements maintenu et à jour, analyses d'impacts, procédures et notifications, actions de formation et sensibilisation , la sécurité du systeme d'information (cartographie et état des lieux SI, gestion des accès, mécanismes de purge et sauvegarde, durée de conservation..) , pseudonymisation..)
 
-### La documentation des données à caractères personnelles (DCP):
+### Documenter les données à caractères personnelles (DCP):
 Il s'agit de référencer les informations essentielles telles que le nom du traitement, sa finalité, les interlocuteurs, les catégories de données traitées, les données à risques, les destinataires des données, les flux et transferts de données, les sous-traitants, l’hébergement des données ou encore l’application d’une politique d’archivage. 
 Le registre des traitements est obligatoire et constitue une synthèse pour détecter les traitements à risques (manipulation de données à caractère personnel)
 
@@ -27,17 +29,17 @@ Le registre des traitements est obligatoire et constitue une synthèse pour dét
 - Les mentions d’informations.
 - Les preuves du recueil du consentement 
 
-### Les contrats qui définissent les rôles et les responsabilités des acteurs :
+### les contrats qui définissent les rôles et les responsabilités des acteurs :
 - Les contrats avec les sous-traitants
 - Les procédures internes en cas de violation de données.
 
-###  Droits des personnes
+###  les Droits des personnes
 - « Consentement explicite et positif » des intéressés : l’accord doit être obtenu de façon claire et non par défaut, par les entreprises ou organisations exploitant de telles données.
 - Le « Droit à l’effacement » : il remplace le « droit à l’oubli » et peut être invoqué pour 6 motifs. La purge des fichiers doit être exécutée « dans les meilleurs délais ».
 - Le « Droit à la portabilité des données personnelles » : chacun peut exiger d’un responsable de traitement que le fichier de ses données individuelles lui soit remis « dans un format structuré, couramment utilisé et lisible par machine ».
 - Le « Profilage » : toute personne peut refuser de faire l’objet d’une décision fondée sur un traitement automatisé, y compris le « profilage », ayant des effets juridiques ou l’affectant de fait.
 
-### Mesures de sécurité techniques et organisationnelles
+### Rédiger les mesures de sécurité techniques et organisationnelles
 
 #### mesures organisationnelles
 - Sur le plan organisationnel, le RGPD renforce l’importance de la réalisation d’une cartographie des traitements. Celle-ci permet à une organisation de recenser l’ensemble des traitements existants et de détecter ainsi ceux comportant des données à caractère personnel. Voir article "état des lieux"
