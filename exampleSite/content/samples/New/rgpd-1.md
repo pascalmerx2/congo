@@ -1,5 +1,5 @@
 ---
-title: "G03 Respect des normes techniques"
+title: "G03 Normes techniques"
 date: 2025-03-02
 lastmod: 2025-04-02
 draft: true
@@ -11,7 +11,7 @@ ISO 27001 est une norme internationale qui définit les exigences pour la mise e
 Elle vise à aider les entreprises à protéger les informations sensibles et à prévenir les fuites de données. Pour être certifiée ISO 27001, une organisation doit démontrer qu'elle a mis en place un SMSI efficace et qu'elle respecte les exigences de la norme.
 
 #### La cartographie du système d'information est un outil clé pour répondre aux recommandations ISO 27001 :
--Inventaire des informations et des autres actifs associés (A.5.09) ;
+- Inventaire des informations et des autres actifs associés (A.5.09) ;
 - Classification de l'information (A.5.12) ;
 - La politique de sécurité de l’information dans les relations avec les fournisseurs (A.5.19) ;
 - Réponse aux incidents liés à la sécurité de l'information (A.5.26) ;
