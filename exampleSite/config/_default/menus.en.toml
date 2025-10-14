@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Doc de conformité"
+  name = "Méthodes"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Référentiel "
+  name = "Modules de formation "
   pageRef = "samples"
   weight = 20
 
