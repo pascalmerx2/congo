@@ -1,5 +1,5 @@
 ---
-title: "G03 Normes techniques"
+title: "G03_A Normes techniques"
 date: 2025-03-02
 lastmod: 2025-04-02
 draft: true
@@ -7,8 +7,8 @@ description: "interet carto"
 showDateUpdated: true
 ---
 
-ISO 27001 est une norme internationale qui définit les exigences pour la mise en place, l'implantation, le maintien et l'amélioration permanente d'un Système de Management de la Sécurité de l'Information (SMSI). 
-Elle vise à aider les entreprises à protéger les informations sensibles et à prévenir les fuites de données. Pour être certifiée ISO 27001, une organisation doit démontrer qu'elle a mis en place un SMSI efficace et qu'elle respecte les exigences de la norme.
+Comprendre la norme "ISO 27001" qui définit les exigences pour la mise en place, l'implantation, le maintien et l'amélioration permanente d'un Système de Management de la Sécurité de l'Information (SMSI). 
+Cette norme vise à aider les entreprises à protéger les informations sensibles et à prévenir les fuites de données. Pour être certifiée ISO 27001, une organisation doit démontrer qu'elle a mis en place un SMSI efficace et qu'elle respecte les exigences de la norme.
 
 #### La cartographie du système d'information est un outil clé pour répondre aux recommandations ISO 27001 :
 - Inventaire des informations et des autres actifs associés (A.5.09) ;
