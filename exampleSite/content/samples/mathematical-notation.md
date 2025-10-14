@@ -44,7 +44,7 @@ S'approprier la méthodologie de l'Analyse d'impact pour la protection des donn�
 
 ##### Présentation pour validation au RT
 
-### Prérequis 
+### Cas Pratique intégrant les phases 1&2 décrites dans le module précédent
 
 | Étape                                          | Objectif                                                             | Production attendue                                           | Références                            |
 | ---------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- |
