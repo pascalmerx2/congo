@@ -1,5 +1,5 @@
 ---
-title: "REFERENTIEL RGPD"
+title: "MODULES"
 description: "See what's possible"
 
 cascade:
