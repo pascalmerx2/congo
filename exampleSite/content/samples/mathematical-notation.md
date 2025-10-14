@@ -7,26 +7,26 @@ tags: ["sample", "katex", "maths", "shortcodes"]
 
 S'approprier la méthodologie de l'Analyse d'impact pour la protection des données personnelles
 
-#### Rappel du contexte réglementaire
+### Rappel du contexte réglementaire
 
 - Une analyse de risques Privacy (PIA) ou analyse d’impact relative à la protection des données (AIPD) est évoquée à l’article 35 du RGPD
 - Elle porte sur le traitement des données à caractère personnel, et sera évaluée sur la base de principes fondamentaux (finalité déterminée, données minimisées, information des personnes, leur permettre l’exercice de leurs droits, etc.), 
 - Le but de cette étude vise à identifier les impacts potentiels sur les personnes concernées et estimer leur gravité
 
-#### Qu’est-ce qu’un risque sur la vie privée ?
+### Qu’est-ce qu’un risque sur la vie privée ?
 
 - Un risque est un scénario hypothétique qui décrit un événement redouté et toutes les menaces qui permettraient qu'il survienne.
 - Il décrit comment des sources de risques (ex. : un salarié soudoyé par un concurrent) pourraient exploiter les vulnérabilités des supports de données (ex. : le système de gestion des fichiers, qui permet de manipuler les données),
 - Dans le cadre de menaces (ex. : détournement par envoi de courriers électroniques), et permettre à des événements redoutés de survenir (ex. : accès illégitime à des données) sur les données à caractère personnel (ex. : fichier des clients),
 - Et ainsi provoquer des impacts sur la vie privée des personnes concernées (ex. : sollicitations non désirées, sentiment d'atteinte à la vie privée, ennuis personnels ou professionnels)
 
-#### Rappel : Les traitements nécessitant une AIPD
+### Rappel : Les traitements nécessitant une AIPD
 
 ##### Critères CNIL
 
 ##### Acteurs, rôles et responsabilités
 
-#### Risques et sécurité
+### Risques et sécurité
 
 ##### Notions de vie privée, droits et libertés
 
@@ -43,3 +43,12 @@ S'approprier la méthodologie de l'Analyse d'impact pour la protection des donn�
 ##### Proposition de mesures correctives
 
 ##### Présentation pour validation au RT
+
+### Prérequis 
+
+| Étape                                          | Objectif                                                             | Production attendue                                           | Références                            |
+| ---------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- |
+| **1. Constitution du référentiel SI**          | Identifier et décrire les composants techniques et les flux du SI    | Fiche d’actifs, schémas d’architecture, inventaire applicatif | ISO 27001 (A.5.9, A.8.1), ANSSI, CNIL |
+| **2. Cartographie des traitements de données** | Relier les traitements RGPD aux éléments du SI concernés             | Registre des traitements, flux de données                     | RGPD art. 30, CNIL                    |
+| **3. Analyse de risques RGPD / AIPD**          | Identifier les menaces, vulnérabilités et impacts pour les personnes | Rapport d’AIPD, plan d’action sécurité                        | RGPD art. 35, CNIL, ISO 27005         |
+| **4. Mise en œuvre et suivi**                  | Définir les mesures de sécurité adaptées et les indicateurs          | Plan de traitement des risques, PSSI, tableau de bord         | ISO 27001, ANSSI                      |
