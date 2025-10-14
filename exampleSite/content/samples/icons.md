@@ -1,5 +1,5 @@
 ---
-title: "Mesures techniques"
+title: "G05 Mesures techniques"
 date: 2024-01-02
 lastmod: 2025-01-10
 draft: true
@@ -8,6 +8,9 @@ slug: "icons"
 tags: ["icons", "sample", "shortcodes"]
 showDateUpdated: true
 ---
+
+Détailler les mesures en lien avec Analyse d'Impact Privacy
+
 ### Identifier ou déterminer les mesures existantes ou prévues (déjà engagées) (source CNIL) : 
 
    - mesures de sécurité logique portant spécifiquement sur les données du traitement : chiffrement, anonymisation, cloisonnement, contrôle d'accès, traçabilité, etc. 
