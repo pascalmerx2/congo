@@ -2,7 +2,7 @@
 title: "G01 Gestion de la conformité : What are we talking about  "
 date: 2025-05-01
 description: "Guide méthodologie plan d'action mise en conformité RGPD"
-summary: "comprendre les étapes indispensables pour la mise en conformité réglementaire "
+summary: "Comprendre les étapes indispensables pour la mise en conformité réglementaire "
 tags: ["rgpd", "sample"]
 ---
 ###  Objectifs
