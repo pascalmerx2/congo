@@ -1,5 +1,5 @@
 ---
-title: "MODULES"
+title: "CATALOGUE"
 description: "See what's possible"
 
 cascade:
