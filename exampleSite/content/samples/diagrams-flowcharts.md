@@ -1,9 +1,10 @@
 ---
-title: "Structurer les mesures techniques de sécurité"
-date: 2020-04-09
+title: "G03_B Structurer les mesures techniques de sécurité"
+date: 2025-02-09
 description: "Guide ANSSI"
 summary: "Gouvernance, protection, défense, résilience"
 ---
+Comprendre la classification issue des normes techniques
 
 ### Gouvernance
 - Cadre de maîtrise du risque (stratégie de sécurité, organisation de management du risque et d’amélioration continue, cartographie des systèmes et services, processus d’intégration de la sécurité dans les projets)
