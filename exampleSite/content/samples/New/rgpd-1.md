@@ -1,6 +1,6 @@
 ---
-title: "RGPD/GDPR- Respect des normes techniques"
-date: 2024-03-02
+title: "G03 Respect des normes techniques"
+date: 2025-03-02
 lastmod: 2025-04-02
 draft: true
 description: "interet carto"
