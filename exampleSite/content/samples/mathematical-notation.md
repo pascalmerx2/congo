@@ -9,9 +9,9 @@ S'approprier la méthodologie de l'Analyse d'impact pour la protection des donn�
 
 #### Rappel du contexte réglementaire
 
-Une analyse de risques Privacy (PIA) ou analyse d’impact relative à la protection des données (AIPD) est évoquée à l’article 35 du RGPD
-Elle porte sur le traitement des données à caractère personnel, et sera évaluée sur la base de principes fondamentaux (finalité déterminée, données minimisées, information des personnes, leur permettre l’exercice de leurs droits, etc.), 
-Le but de cette étude vise à identifier les impacts potentiels sur les personnes concernées et estimer leur gravité
+##### Une analyse de risques Privacy (PIA) ou analyse d’impact relative à la protection des données (AIPD) est évoquée à l’article 35 du RGPD
+##### Elle porte sur le traitement des données à caractère personnel, et sera évaluée sur la base de principes fondamentaux (finalité déterminée, données minimisées, information des personnes, leur permettre l’exercice de leurs droits, etc.), 
+##### Le but de cette étude vise à identifier les impacts potentiels sur les personnes concernées et estimer leur gravité
 
 #### Qu’est-ce qu’un risque sur la vie privée ?
 
