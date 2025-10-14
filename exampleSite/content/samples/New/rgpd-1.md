@@ -57,3 +57,11 @@ Ainsi, le référentiel SI constitue le socle sur lequel repose la cartographie 
 - Attribuer des responsabilités (propriétaire, exploitant, responsable sécurité).
 
 - Mettre à jour régulièrement le référentiel et le relier à la gestion des changements IT.
+
+### Illustration avec un cas pratique 
+  | Étape                                          | Objectif                                                             | Production attendue                                           | Références                            |
+| ---------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------- |
+| **1. Constitution du référentiel SI**          | Identifier et décrire les composants techniques et les flux du SI    | Fiche d’actifs, schémas d’architecture, inventaire applicatif | ISO 27001 (A.5.9, A.8.1), ANSSI, CNIL |
+| **2. Cartographie des traitements de données** | Relier les traitements RGPD aux éléments du SI concernés             | Registre des traitements, flux de données                     | RGPD art. 30, CNIL                    |
+|             |
+
