@@ -9,5 +9,3 @@ _build:
   list: "local"
 ---
 
-This page uses the `externalUrl` front matter parameter to link to an article outside of this Hugo website.
-
