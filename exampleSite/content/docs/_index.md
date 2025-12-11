@@ -8,6 +8,7 @@ tags: ["new", "docs"]
 
 {{< lead >}}
 Au terme de l'article 24 du RGPD, obligation de mise en oeuvre des mesures techniques et organisationnelles appropriées pour s'assurer et être en mesure de démontrer que le traitement des données personnelles est effectué conformément au réglement
+
 {{< /lead >}}
 
 ---
