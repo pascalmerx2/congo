@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Méthodes"
+  name = "Accompagnement"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Modules de formation "
+  name = "Principes techniques et juridiques"
   pageRef = "samples"
   weight = 20
 
