@@ -1,0 +1,4 @@
+[tools]
+# Désactiver la gestion Hugo par mise — Netlify fournit Hugo nativement
+# via HUGO_VERSION dans netlify.toml
+# hugo-extended n'est PAS géré par mise pour éviter les timeouts GitHub
