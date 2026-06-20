@@ -6,11 +6,21 @@
         {{ $logo := resources.Get .Site.Params.Logo }}
         {{ if $logo }}
           <a href="{{ "" | relLangURL }}">
-            <img
-              src="{{ $logo.RelPermalink }}"
-              class="max-h-[10rem] max-w-[10rem] object-scale-down object-left"
-              alt="{{ .Site.Title }}"
-            />
+            {{ if eq $logo.MediaType.SubType "svg" }}
+              <img
+                src="{{ $logo.RelPermalink }}"
+                class="max-h-[10rem] max-w-[10rem] object-scale-down object-left"
+                alt="{{ .Site.Title }}"
+              />
+            {{ else }}
+              <img
+                src="{{ $logo.RelPermalink }}"
+                width="{{ div $logo.Width 2 }}"
+                height="{{ div $logo.Height 2 }}"
+                class="max-h-[10rem] max-w-[10rem] object-scale-down object-left"
+                alt="{{ .Site.Title }}"
+              />
+            {{ end }}
           </a>
         {{ end }}
       {{ else }}
