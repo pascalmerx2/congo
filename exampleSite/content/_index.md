@@ -10,6 +10,6 @@ L'objectif 2026 sera d'aider des entités à formaliser une analyse de risque et
 - documenter la conformité
 - améliorer la protection cyber
   
-![A stylised ](blowfish_logo_transparent.jpg)
+
 
 
