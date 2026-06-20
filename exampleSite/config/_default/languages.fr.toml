@@ -1,0 +1,20 @@
+languageCode = "fr-fr"
+languageName = "Français"
+displayName = ":flag-fr:"
+isoCode = "fr-FR"
+weight = 1
+rtl = false
+
+title = "CyberAction.Lab"
+description = "CyberAction.Lab — accompagnement en analyse de risques, conformité RGPD et cybersécurité pour les organisations."
+copyright = "&copy; 2026 CyberAction.Lab"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "CyberAction.Lab"
+  headline = "Risques & Conformité"
+  bio = "Accompagnement en analyse de risques, conformité RGPD et cybersécurité."
+  links = [
+    { github = "https://github.com/pascalmerx2" },
+  ]
