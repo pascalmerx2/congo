@@ -1,15 +1,11 @@
 ---
-title: "Documentation de conformité"
-date: 2024-01-10
-draft: true
-description: "principe ."
-tags: ["new", "docs"]
+title: "Accompagnement"
+description: "Documents de conformité et principes RGPD"
+cascade:
+  showEdit: false
+  showSummary: true
 ---
 
 {{< lead >}}
-Au terme de l'article 24 du RGPD, obligation de mise en oeuvre des mesures techniques et organisationnelles appropriées 
-
+Au terme de l'article 24 du RGPD, obligation de mise en oeuvre des mesures techniques et organisationnelles appropriées
 {{< /lead >}}
-
----
-
