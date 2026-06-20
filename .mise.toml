@@ -1,4 +1,0 @@
-[tools]
-# Forcer mise à utiliser le Hugo système (pré-installé par Netlify)
-# au lieu de télécharger depuis les releases GitHub (timeout 504)
-hugo-extended = "system"
