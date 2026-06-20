@@ -1,4 +1,4 @@
-{{- partial "partials/functions/warnings.html" .Site -}}
+{{- partial "partials/functions/warnings.html" . -}}
 <!DOCTYPE html>
 <html
   lang="{{ with .Site.Params.isoCode | default (.Site.LanguageCode | default "en") }}
