@@ -1,5 +1,5 @@
 [build]
-  command = "curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.120.4/hugo_extended_0.120.4_linux-amd64.tar.gz | tar xz -C /tmp && cd exampleSite && /tmp/hugo --gc --minify -D -b $URL"
+  command = "curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_linux-amd64.tar.gz | tar xz -C /tmp && cd exampleSite && /tmp/hugo --gc --minify -D -b $URL"
   publish = "exampleSite/public"
 
 [build.environment]
@@ -11,7 +11,7 @@ TZ = "Europe/Paris"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.120.4/hugo_extended_0.120.4_linux-amd64.tar.gz | tar xz -C /tmp && cd exampleSite && /tmp/hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
+command = "curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_linux-amd64.tar.gz | tar xz -C /tmp && cd exampleSite && /tmp/hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-command = "curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.120.4/hugo_extended_0.120.4_linux-amd64.tar.gz | tar xz -C /tmp && cd exampleSite && /tmp/hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
+command = "curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_linux-amd64.tar.gz | tar xz -C /tmp && cd exampleSite && /tmp/hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
