@@ -6,10 +6,10 @@ description: "All the front matter variables available in Congo."
 slug: "front-matter"
 tags: ["new", "docs"]
 tags: ["front matter", "config", "docs"]
----
+--- 
 
-## Présentation de la méthode" (les grandes étapes : diagnostic, audit, plan d'action, suivi)
-La présente méthodologie constitue le cadre d'intervention professionnel de Cyberaction-lab pour l'accompagnement des organismes — entreprises, collectivités, associations — dans leur mise en conformité avec le Règlement Général sur la Protection des Données (RGPD) et la législation française relative à la protection des données personnelles.
+## Présentation de la méthode" (diagnostic, audit, plan d'action, suivi)
+La présente méthodologie constitue le cadre d'intervention professionnel de Cyberaction-lab pour l'accompagnement des organismes — entreprises, collectivités, associations — dans leur mise en conformité avec le Règlement Général sur la Protection des Données (RGPD) et la législation française relativeà la protection des données personnelles.
 
 ## Philosophie de l'accompagnement
 Notre approche repose sur trois principes directeurs :
