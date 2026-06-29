@@ -1,5 +1,5 @@
 ---
-title: "Thèmes"
+title: "Catalogue de services"
 description: "See what's possible"
 
 cascade:
