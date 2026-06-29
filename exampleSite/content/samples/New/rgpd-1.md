@@ -1,5 +1,5 @@
 ---
-title: "G03_A Notion de Référentiel Technique (IT)"
+title: "G03 Approfondir le Référentiel Technique"
 date: 2025-03-02
 lastmod: 2025-04-02
 draft: true
