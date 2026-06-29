@@ -1,5 +1,5 @@
 ---
-title: "G05 Mesures techniques"
+title: "G05 Suivi du plan d'action technique"
 date: 2024-01-02
 lastmod: 2025-01-10
 draft: true
