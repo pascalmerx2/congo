@@ -18,7 +18,7 @@ Real websites that are built with Congo.
 | Website                                                                | Details                      |
 | ---------------------------------------------------------------------- | ---------------------------- |
 | [lab.mesures](https://lab-pm.blog4ever.com/articles/accompagnement)                           | Mesures|
-| [srisco.dev](https://srisco.dev)                                       | Personal site                |
+| [lab.dev](https://srisco.dev)                                       | Personal site                |
 
 
 **xxx** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users.md).
