@@ -20,8 +20,8 @@
   pageRef = "samples"
   weight = 20
 
-#[[main]]
-  #name = "Users"
+[[main]]
+  #name = "Doc"
   #pageRef = "users"
   #weight = 30
   
