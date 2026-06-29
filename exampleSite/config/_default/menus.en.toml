@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "Principes techniques et juridiques"
+  name = "Services"
   pageRef = "samples"
   weight = 20
 
