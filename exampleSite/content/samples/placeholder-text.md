@@ -9,7 +9,7 @@ showDateUpdated: true
 xml: false
 ---
 
-développer une culture de gestion de projet à part entière, qui doit concilier :
+Développer une culture de gestion de projet
 
 - la méthodologie de gestion des risques (ISO 27005, EBIOS RM),
 
