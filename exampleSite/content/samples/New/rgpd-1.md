@@ -8,8 +8,9 @@ showDateUpdated: true
 ---
 
 
-Connaître l’existence d’un référentiel du système d’information (SI), documentant les actifs techniques, les applications, les infrastructures, les flux de données et leurs responsables, constitue un prérequis essentiel à la démarche d’analyse de risques RGPD. 
-En s'appuyant sur les recommandations ANSSI , L’élaboration d’une cartographie du système d’information s’intègre à une démarche générale de gestion des risques, et notamment celle relative à la protection des données personnelles.
+Savoir documenter les actifs techniques, les applications, les infrastructures, les flux de données et leurs responsables, 
+
+L’élaboration d’une cartographie du système d’information s’intègre à une démarche générale de gestion des risques, et notamment celle relative à la protection des données personnelles.
 
 ### Introduction – Le référentiel du Système d’Information comme prérequis à l’analyse de risques RGPD
 
