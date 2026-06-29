@@ -17,8 +17,8 @@ showEdit: false
 
 | Website                                                                | Details                      |
 | ---------------------------------------------------------------------- | ---------------------------- |
-| [lab.mesures](https://lab-pm.blog4ever.com/articles/accompagnement)                           | Mesures|
-| [lab.dev](https://srisco.dev)                                       | Personal site                |
+| [lab.doc](https://lab-pm.blog4ever.com/articles/accompagnement)                           | Mesures|
+| [lab.storage](https://www.dropbox.com/home)                                                   | Personal site |
 
 
 **xxx** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users.md).
