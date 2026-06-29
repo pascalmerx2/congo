@@ -11,9 +11,9 @@ showReadingTime: false
 showEdit: false
 ---
 
-{{< lead >}}
-Real websites that are built with Congo.
-{{< /lead >}}
+
+
+
 
 | Website                                                                | Details                      |
 | ---------------------------------------------------------------------- | ---------------------------- |
