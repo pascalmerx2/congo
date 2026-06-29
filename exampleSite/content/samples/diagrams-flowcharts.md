@@ -1,5 +1,5 @@
 ---
-title: "G03_B Structuration des mesures techniques de sécurité"
+title: "G03 Structurer les mesures techniques de sécurité"
 date: 2025-02-09
 description: "Guide ANSSI"
 summary: "Gouvernance, protection, défense, résilience"
