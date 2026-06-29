@@ -1,5 +1,5 @@
 ---
-title: "G02 Principes juridiques et techniques"
+title: "G02 Accompagnement Juridique et Technique niveau 1"
 date: 2025-04-01
 lastmod: 2025-04-01
 draft: true
