@@ -17,7 +17,7 @@ Real websites that are built with Congo.
 
 | Website                                                                | Details                      |
 | ---------------------------------------------------------------------- | ---------------------------- |
-| [xxx](https://lab-pm.blog4ever.com/articles/accompagnement))                           | Mesues |
+| [xxx](https://lab-pm.blog4ever.com/articles/accompagnement)                           | Mesues |
 | [srisco.dev](https://srisco.dev)                                       | Personal site                |
 | [antoinesoetewey.com](https://antoinesoetewey.com/)                    | Personal site                |
 | [leif.io](https://leif.io/)                                            | Personal site and Tech blog  |
