@@ -1,24 +1,15 @@
-[build]
-  command = "cd exampleSite && ln -s ../../ themes/congo 2>/dev/null || true && hugo --gc --minify -D -b $URL"
-  publish = "exampleSite/public"
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
 
-[build.environment]
-HUGO_THEMESDIR = "themes"
-HUGO_THEME = "congo"
-TZ = "Australia/Melbourne"
+theme = "congo"
+defaultContentLanguage = "en"
 
-[context.production.environment]
-HUGO_VERSION = "0.100.2"
-HUGO_ENV = "production"
+enableRobotsTXT = true
+summaryLength = 0
 
-[context.deploy-preview]
-command = "cd exampleSite && ln -s ../../ themes/congo 2>/dev/null || true && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
+[pagination]
+  pagerSize = 15
 
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.100.2"
-
-[context.branch-deploy]
-command = "cd exampleSite && ln -s ../../ themes/congo 2>/dev/null || true && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.100.2"
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
