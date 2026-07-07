@@ -12,12 +12,12 @@ copyright = "&copy; 2022 Congo contributors"
 
 dateFormat = "2 January 2006"
 
-[author]
-  name = "PME"
-  image = "img/blowfish_logo_transparent.jpg"
-  headline = "Not your ordinary theme!"
-  bio = "This is an example author bio"
-  links = [
+#[author]
+#  name = "PME"
+#  image = "img/blowfish_logo_transparent.jpg"
+#  headline = "Not your ordinary theme!"
+"  bio = "This is an example author bio"
+"  links = [
     { twitter = "https://twitter.com/" },
     { facebook = "https://facebook.com/" },
     { linkedin = "https://linkedin.com/" },
