@@ -3,8 +3,8 @@
   publish = "exampleSite/public"
 
 [build.environment]
-HUGO_THEMESDIR = "../.."
-HUGO_THEME = "repo"
+HUGO_THEMESDIR = "themes"
+HUGO_THEME = "congo"
 TZ = "Australia/Melbourne"
 
 [context.production.environment]
