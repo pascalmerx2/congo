@@ -7,18 +7,19 @@ rtl = false
 
 title = "CyberAction.Lab"
 # logo = "img/logo.jpg"
-description = "A venir"
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 copyright = "&copy; 2022 Congo contributors"
 
 dateFormat = "2 January 2006"
 
-#[author]
-#  name = "PME"
-#  image = "img/blowfish_logo_transparent.jpg"
-#  headline = "Not your ordinary theme!"
-#  bio = "This is an example author bio"
-#    { twitter = "https://twitter.com/" },
-#    { facebook = "https://facebook.com/" },
-#    { linkedin = "https://linkedin.com/" },
-#    { youtube = "https://youtube.com/" },
-#  ]
+# [author]
+#   name = "PME"
+#   image = "img/blowfish_logo_transparent.jpg"
+#   headline = "Not your ordinary theme!"
+#   bio = "This is an example author bio"
+#   links = [
+#     { twitter = "https://twitter.com/" },
+#     { facebook = "https://facebook.com/" },
+#     { linkedin = "https://linkedin.com/" },
+#     { youtube = "https://youtube.com/" },
+#   ]
