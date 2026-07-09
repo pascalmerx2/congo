@@ -1,12 +1,11 @@
 [build]
   base = "exampleSite"
-  command = "go env -w GOPROXY=https://proxy.golang.org,direct && hugo mod get -u ./... && hugo --gc --minify -b $URL"
+  # On crée manuellement le dossier attendu et on y copie les fichiers du thème locaux
+  command = "mkdir -p themes/congo && cp -r ../assets ../config ../i18n ../layouts ../static ../theme.toml themes/congo/ && hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.125.0"
-  GO_VERSION = "1.22.0"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.125.0"
-  GO_VERSION = "1.22.0"
