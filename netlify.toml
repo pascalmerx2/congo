@@ -1,16 +1,24 @@
 [build]
-  base    = "exampleSite"
+  base = "exampleSite"
   command = "hugo --gc --minify -b $URL"
   publish = "public"
 
+
 [build.environment]
+  HUGO_VERSION = "0.125.0"
+  GO_VERSION = "1.22.0"
+
+
   # HUGO_VERSION   = "0.147.0"
-  HUGO_VERSION = "0.125.0"  # Mettez à jour si vous utilisez une autre version
-  HUGO_ENV       = "production"
-  HUGO_THEMESDIR = "../.."
-  HUGO_THEME     = "repo"
-  TZ             = "Europe/Paris"
-  GO_VERSION = "1.22.0"    # Requis pour télécharger les Hugo Modules
+  # HUGO_ENV       = "production"
+  # HUGO_THEMESDIR = "../.."
+  # HUGO_THEME     = "repo"
+  # TZ             = "Europe/Paris"
+
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.125.0"
+  GO_VERSION = "1.22.0"
   
 [context.production.environment]
 HUGO_VERSION = "0.100.2"
@@ -27,3 +35,8 @@ command = "cd exampleSite && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.100.2"
+
+
+
+
+
