@@ -2,4 +2,5 @@
 
 cd exampleSite
 hugo mod init github.com/pascalmerx2/congo/exampleSite
-go 1.16
+# go 1.16
+GO_VERSION = "1.22.0"    # Requis pour télécharger les Hugo Module
