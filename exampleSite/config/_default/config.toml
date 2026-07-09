@@ -4,6 +4,7 @@
 
 theme = "congo"
 defaultContentLanguage = "fr"
+defaultContentLanguage = "fr"
 
 enableRobotsTXT = true
 paginate = 15
@@ -11,3 +12,13 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[languages]
+  [languages.fr]
+    languageCode = "fr"
+    languageName = "Français"
+    weight = 1
+    # Mettez les paramètres personnalisés sous le bloc params
+    [languages.fr.params]
+      title = "Mon super site Congo"
+      description = "Description de mon site"
