@@ -1,3 +1,4 @@
+baseURL = "https://pascalmerx2.github.io/congo/"
 defaultContentLanguage = "fr"
 enableRobotsTXT = true
 summaryLength = 0
