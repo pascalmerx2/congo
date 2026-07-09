@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 title = "Mon Site Pascal"
-theme = "repo"
+#theme = "repo"
 defaultContentLanguage = "fr"
 
 [languages]
@@ -11,3 +11,6 @@ defaultContentLanguage = "fr"
     [languages.fr.params]
       title = "Mon Site en Français"
       description = "Bienvenue sur mon site modifié sur la base de Congo"
+
+[[module.imports]]
+  path = "github.com/jpanther/congo/v2"
