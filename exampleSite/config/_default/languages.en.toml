@@ -1,9 +1,9 @@
-languageCode = "fr-fr"
-languageName = "Français"
-displayName = ":flag-fr:"
-isoCode = "fr-FR"
-weight = 1
-rtl = false
+#languageCode = "fr-fr"
+#languageName = "Français"
+#displayName = ":flag-fr:"
+#isoCode = "fr-FR"
+#weight = 1
+#rtl = false
 
 title = "CyberAction.Lab"
 # logo = "img/logo.jpg"
