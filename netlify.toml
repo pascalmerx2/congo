@@ -1,14 +1,13 @@
 [build]
   base = "exampleSite"
-  command = "hugo --gc --minify -b $URL"
+  # La commande magique : télécharge le module puis compile le site
+  command = "go env -w GOPROXY=https://proxy.golang.org,direct && hugo mod download && hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.125.0"
   GO_VERSION = "1.22.0"
-  #HUGO_THEMESDIR = "/opt/build"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.125.0"
   GO_VERSION = "1.22.0"
-  #HUGO_THEMESDIR = "/opt/build"
