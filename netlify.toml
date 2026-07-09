@@ -9,6 +9,7 @@
   HUGO_THEMESDIR = "../.."
   HUGO_THEME     = "repo"
   TZ             = "Europe/Paris"
+  GO_VERSION = "1.22.0"    # Requis pour télécharger les Hugo Modules
   
 [context.production.environment]
 HUGO_VERSION = "0.100.2"
@@ -17,7 +18,7 @@ HUGO_ENV = "production"
 [context.deploy-preview]
 command = "cd exampleSite && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
 
-[context.deploy-preview.environment]
+[context.deploy-preview.GO_VERSION = "1.22.0"    # Requis pour télécharger les Hugo Modulesenvironment]
 HUGO_VERSION = "0.100.2"
 
 [context.branch-deploy]
@@ -25,3 +26,6 @@ command = "cd exampleSite && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.100.2"
+
+
+  
