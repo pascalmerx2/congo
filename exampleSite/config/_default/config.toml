@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+title = "Mon Site Pascal"
+theme = "repo"
+defaultContentLanguage = "fr"
+
+[languages]
+  [languages.fr]
+    languageCode = "fr-fr"
+    languageName = "Français"
+    weight = 1
+    [languages.fr.params]
+      title = "Mon Site en Français"
+      description = "Bienvenue sur mon site modifié sur la base de Congo"
