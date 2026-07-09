@@ -1,7 +1,6 @@
 [build]
   base = "exampleSite"
-  # La commande magique : télécharge le module puis compile le site
-  command = "go env -w GOPROXY=https://proxy.golang.org,direct && hugo mod download && hugo --gc --minify -b $URL"
+  command = "go env -w GOPROXY=https://proxy.golang.org,direct && hugo mod get -u ./... && hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
