@@ -1,6 +1,5 @@
-# module github.com/jpanther/congo/v2
+module github.com/pascalmerx2/congo/exampleSite
 
-cd exampleSite
-hugo mod init github.com/pascalmerx2/congo/exampleSite
-# go 1.16
-GO_VERSION = "1.22.0"    # Requis pour télécharger les Hugo Module
+go 1.22.0
+
+require github.com/jpanther/congo/v2 v2.8.2 // indirect
