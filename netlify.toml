@@ -6,7 +6,7 @@
 [build.environment]
   HUGO_VERSION = "0.125.0"
   GO_VERSION = "1.22.0"
-  HUGO_THEMESDIR = "/opt/build"  # Indique à Hugo de chercher le thème à la racine du repo cloné
+  HUGO_THEMESDIR = "/opt/build"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.125.0"
