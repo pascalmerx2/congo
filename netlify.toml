@@ -4,7 +4,8 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION   = "0.147.0"
+  # HUGO_VERSION   = "0.147.0"
+  HUGO_VERSION = "0.125.0"  # Mettez à jour si vous utilisez une autre version
   HUGO_ENV       = "production"
   HUGO_THEMESDIR = "../.."
   HUGO_THEME     = "repo"
@@ -26,6 +27,3 @@ command = "cd exampleSite && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.100.2"
-
-
-  
