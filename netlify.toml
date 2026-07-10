@@ -1,0 +1,11 @@
+[build]
+  base    = "SiteA"
+  command = "hugo --gc --minify -b $URL"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION   = "0.147.0"
+  HUGO_ENV       = "production"
+  HUGO_THEMESDIR = "../.."
+  HUGO_THEME     = "repo"
+  TZ             = "Europe/Paris"
